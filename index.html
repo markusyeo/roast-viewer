@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Roast Journal • Hamid H7 roast profiles</title>
+  <link rel="stylesheet" href="styles.css?v=1788432041">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=JetBrains+Mono:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+</head>
+<body class="light-theme">
+  <div class="app-shell">
+    <!-- Mobile Header (Visible on smaller viewports) -->
+    <header class="mobile-header">
+      <div class="mobile-header-left">
+        <button id="mobile-sidebar-toggle" class="mobile-sidebar-toggle-btn" title="Toggle roast list" aria-label="Toggle roast list drawer" aria-expanded="false" aria-controls="sidebar-panel">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+        </button>
+        <div class="mobile-brand">
+          <div class="brand-mark-mini">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8h1a4 4 0 0 1 0 8h-1"></path><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path><line x1="6" y1="1" x2="6" y2="4"></line><line x1="10" y1="1" x2="10" y2="4"></line><line x1="14" y1="1" x2="14" y2="4"></line></svg>
+          </div>
+          <span class="mobile-title">Roast Journal</span>
+        </div>
+      </div>
+      <button class="theme-toggle-btn mobile-theme-btn" title="Toggle theme (Cmd/Ctrl+J)" aria-label="Switch to dark theme" aria-pressed="false">
+        <span class="theme-icon-slot theme-icon-moon" aria-hidden="true">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+        </span>
+        <span class="theme-icon-slot theme-icon-sun hidden" aria-hidden="true">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+        </span>
+      </button>
+    </header>
+
+    <!-- Workspace layout -->
+    <div class="workspace-layout">
+      <!-- Sidebar backdrop for mobile off-canvas drawer -->
+      <div id="sidebar-backdrop" class="sidebar-backdrop" aria-hidden="true"></div>
+
+      <!-- Desktop Sidebar Peek Strip / Edge Trigger -->
+      <div id="sidebar-peek-strip" class="sidebar-peek-strip" title="Click or hover to open roast list" aria-label="Expand sidebar" role="button" tabindex="0">
+        <span class="peek-strip-handle" aria-hidden="true"></span>
+      </div>
+
+      <!-- Sidebar -->
+      <aside class="sidebar-panel" id="sidebar-panel">
+        <div class="sidebar-top-brand">
+          <div class="brand-section">
+            <div class="brand-mark">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8h1a4 4 0 0 1 0 8h-1"></path><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path><line x1="6" y1="1" x2="6" y2="4"></line><line x1="10" y1="1" x2="10" y2="4"></line><line x1="14" y1="1" x2="14" y2="4"></line></svg>
+            </div>
+            <div class="brand-text">
+              <h1 class="brand-title">Roast Journal</h1>
+              <span class="brand-subtitle">Hamid H7 profiles</span>
+            </div>
+          </div>
+          <div class="sidebar-brand-tools">
+            <button id="theme-toggle" class="theme-toggle-btn" title="Toggle theme (Cmd/Ctrl+J)" aria-label="Switch to dark theme" aria-pressed="false">
+              <span class="theme-icon-slot theme-icon-moon" aria-hidden="true">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+              </span>
+              <span class="theme-icon-slot theme-icon-sun hidden" aria-hidden="true">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+              </span>
+            </button>
+            <button id="sidebar-collapse-btn" class="sidebar-brand-btn" title="Collapse sidebar" aria-label="Collapse sidebar" aria-expanded="true" aria-controls="sidebar-panel">
+              <svg class="icon-desktop-collapse" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line><polyline points="15 9 12 12 15 15"></polyline></svg>
+              <svg class="icon-mobile-close" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+          </div>
+        </div>
+        <div class="sidebar-search-box">
+          <div class="search-field">
+            <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input type="text" id="search-input" placeholder="Search beans, origins, notes…" autocomplete="off" spellcheck="false" aria-label="Search roasts">
+            <kbd class="search-kbd-hint" title="Press / to search" aria-hidden="true">/</kbd>
+            <button id="clear-search" class="clear-search-btn hidden" aria-label="Clear search">&times;</button>
+          </div>
+        </div>
+
+        <div class="process-filter-row" id="process-filters" role="tablist" aria-label="Filter by process">
+          <button class="filter-tab active" data-process="all" role="tab" aria-selected="true">All</button>
+          <button class="filter-tab" data-process="natural" role="tab" aria-selected="false">Natural</button>
+          <button class="filter-tab" data-process="anoxic natural" role="tab" aria-selected="false">Anoxic</button>
+          <button class="filter-tab" data-process="anaerobic" role="tab" aria-selected="false">Anaerobic</button>
+          <button class="filter-tab" data-process="washed" role="tab" aria-selected="false">Washed</button>
+        </div>
+
+        <div class="sidebar-header">
+          <div class="sidebar-title-group">
+            <span class="sidebar-heading">Roasts</span>
+            <span class="sidebar-counter" id="filtered-count">15</span>
+          </div>
+          <div class="sidebar-header-actions">
+            <button id="sidebar-compare-toggle" class="btn-sidebar-compare" title="Toggle roast comparison mode" aria-label="Compare roasts" aria-pressed="false" aria-controls="detail-panel compare-panel">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="8" height="18" rx="1.5"></rect><rect x="13" y="3" width="8" height="18" rx="1.5"></rect></svg>
+              <span id="sidebar-compare-btn-text">Compare</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Compare slot picker (shown in compare mode) -->
+        <div class="compare-slot-picker hidden" id="compare-slot-picker">
+          <div class="picker-header-row">
+            <span class="compare-picker-label">Target slot:</span>
+            <div class="picker-actions-right">
+              <button class="btn-picker-swap" id="picker-swap-btn" title="Swap Roast A and B" aria-label="Swap roasts">⇄ Swap</button>
+              <button class="btn-picker-exit" id="picker-exit-btn" title="Exit comparison mode" aria-label="Exit compare">✕ Exit</button>
+            </div>
+          </div>
+          <div class="compare-picker-buttons">
+            <button class="compare-slot-target" id="target-slot-a" data-target="A" title="Click to select Roast A from list" aria-pressed="false">
+              <span class="slot-badge-mini slot-a">A</span>
+              <span class="slot-target-desc">Select A: <strong id="picker-name-a">Current</strong></span>
+            </button>
+            <button class="compare-slot-target active" id="target-slot-b" data-target="B" title="Click to select Roast B from list" aria-pressed="true">
+              <span class="slot-badge-mini slot-b">B</span>
+              <span class="slot-target-desc">Select B: <strong id="picker-name-b">Empty</strong></span>
+            </button>
+          </div>
+        </div>
+
+        <div class="roasts-scroll-list" id="roasts-grid">
+          <!-- Populated by JS -->
+        </div>
+      </aside>
+
+      <!-- Detail panel -->
+      <main class="stage-panel" id="detail-panel">
+        <!-- Roast header -->
+        <div class="roast-hero">
+          <div class="hero-main">
+            <div class="hero-title-row">
+              <button id="single-sidebar-toggle" class="sidebar-collapse-toggle-btn" title="Open roast list" aria-label="Open roast list" aria-expanded="false" aria-controls="sidebar-panel">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line><polyline points="13 9 16 12 13 15"></polyline></svg>
+              </button>
+              <h2 class="hero-bean-name" id="detail-title">Loading roast…</h2>
+            </div>
+            <div class="meta-tag-cluster">
+              <span class="meta-tag tag-origin" id="detail-origin">-</span>
+              <span class="meta-tag tag-process" id="detail-process">-</span>
+              <span class="meta-tag tag-date" id="detail-date">-</span>
+            </div>
+            <p class="hero-pedigree" id="detail-region-varietal">-</p>
+          </div>
+
+          <div class="hero-actions">
+            <button id="hero-more-btn" class="hero-more-btn" title="Roast actions" aria-label="Roast actions" aria-haspopup="true">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="1.5"></circle><circle cx="19" cy="12" r="1.5"></circle><circle cx="5" cy="12" r="1.5"></circle></svg>
+            </button>
+            <a id="download-alog-btn" class="hidden" download href="#" title="Download .alog file"></a>
+          </div>
+        </div>
+
+        <!-- Metrics -->
+        <div class="telemetry-ribbon">
+          <div class="telemetry-cell">
+            <span class="cell-label">Batch weight</span>
+            <div class="cell-value-line" id="metric-weight">-</div>
+          </div>
+          <div class="telemetry-cell">
+            <span class="cell-label">Total time</span>
+            <div class="cell-value-line" id="metric-total-time">-</div>
+          </div>
+          <div class="telemetry-cell">
+            <span class="cell-label">Development (DTR)</span>
+            <div class="cell-value-line" id="metric-dtr">-</div>
+          </div>
+          <div class="telemetry-cell">
+            <span class="cell-label">First crack</span>
+            <div class="cell-value-line" id="metric-fc">-</div>
+          </div>
+          <div class="telemetry-cell">
+            <span class="cell-label">Drop temp</span>
+            <div class="cell-value-line" id="metric-drop">-</div>
+          </div>
+          <div class="telemetry-cell" id="cell-score">
+            <span class="cell-label">Cupping score</span>
+            <div class="cell-value-line" id="metric-score">-</div>
+          </div>
+        </div>
+
+        <!-- Chart and phase timeline -->
+        <div class="chart-stage-box">
+          <div class="chart-stage-header">
+            <div class="chart-title-group">
+              <span class="chart-heading">Temperature and rate of rise</span>
+            </div>
+            
+            <!-- Channel toggles -->
+            <div class="chart-channel-legend" id="channel-legend" aria-label="Single roast channel toggles">
+              <button class="channel-chip active" data-channel="bt" title="Toggle bean temperature (Key: 1)" aria-pressed="true">
+                <span class="indicator-dot dot-bt"></span> <strong>BT</strong>
+              </button>
+              <button class="channel-chip active" data-channel="et" title="Toggle environmental temperature (Key: 2)" aria-pressed="true">
+                <span class="indicator-dot dot-et"></span> <strong>ET</strong>
+              </button>
+              <button class="channel-chip active" data-channel="ror" title="Toggle rate of rise (Key: 3)" aria-pressed="true">
+                <span class="indicator-dot dot-ror"></span> <strong>RoR</strong>
+              </button>
+              <button class="channel-chip active" data-channel="heat" title="Toggle heat setting (Key: 4)" aria-pressed="true">
+                <span class="indicator-dot dot-heat"></span> Heat
+              </button>
+              <button class="channel-chip active" data-channel="fan" title="Toggle fan setting (Key: 5)" aria-pressed="true">
+                <span class="indicator-dot dot-fan"></span> Fan
+              </button>
+            </div>
+          </div>
+
+          <!-- Phase timeline -->
+          <div class="phase-timeline-embed">
+            <div class="timeline-legend">
+              <span class="legend-item"><span class="swatch swatch-dry"></span> <span id="label-dry">Dry: -</span></span>
+              <span class="legend-item"><span class="swatch swatch-mid"></span> <span id="label-mid">Maillard: -</span></span>
+              <span class="legend-item"><span class="swatch swatch-finish"></span> <span id="label-finish">Development: -</span></span>
+            </div>
+            <div class="timeline-bar">
+              <div class="bar-segment seg-dry" id="bar-dry" style="width: 33%"></div>
+              <div class="bar-segment seg-mid" id="bar-mid" style="width: 33%"></div>
+              <div class="bar-segment seg-finish" id="bar-finish" style="width: 33%"></div>
+            </div>
+          </div>
+
+          <!-- Canvas graph -->
+          <div class="canvas-stage-wrapper">
+            <canvas id="curve-canvas"></canvas>
+            <div id="chart-tooltip" class="floating-tooltip hidden"></div>
+          </div>
+        </div>
+
+        <!-- Notes -->
+        <div class="sensory-grid">
+          <div class="sensory-card" id="card-flavour">
+            <h3 class="sensory-heading">Flavor notes</h3>
+            <div class="flavour-tag-row" id="detail-flavour-chips"></div>
+          </div>
+
+          <div class="sensory-card" id="card-goal">
+            <h3 class="sensory-heading">Roast goal</h3>
+            <p class="sensory-text" id="detail-goal">Standard profile</p>
+          </div>
+
+          <div class="sensory-card full-row" id="card-cupping">
+            <h3 class="sensory-heading">Roast notes and cupping</h3>
+            <p class="cupping-text" id="detail-cupping-notes">No cupping notes recorded.</p>
+          </div>
+        </div>
+      </main>
+
+      <!-- Compare stage panel -->
+      <main class="stage-panel compare-stage-panel hidden" id="compare-panel">
+        <div class="compare-header-bar">
+          <div class="compare-header-info">
+            <div class="compare-title-row">
+              <button id="compare-sidebar-toggle" class="sidebar-collapse-toggle-btn" title="Open roast list" aria-label="Open roast list" aria-expanded="false" aria-controls="sidebar-panel">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line><polyline points="13 9 16 12 13 15"></polyline></svg>
+              </button>
+              <h2 class="compare-header-title">Roast comparison</h2>
+              <span class="compare-subtitle">Side by side telemetry &amp; curves</span>
+            </div>
+            <div class="compare-delta-chips" id="compare-delta-chips">
+              <!-- Deltas dynamically populated -->
+            </div>
+          </div>
+
+          <div class="compare-header-actions">
+            <div class="compare-view-selector" role="radiogroup" aria-label="Comparison view mode">
+              <button type="button" class="view-mode-btn active" id="btn-view-overlay" data-mode="overlay" role="radio" aria-checked="true" title="Superimpose curves on one unified chart">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 18h18M3 12h18M3 6h18"></path></svg>
+                <span>Overlay</span>
+              </button>
+              <button type="button" class="view-mode-btn" id="btn-view-split" data-mode="split" role="radio" aria-checked="false" title="Show side by side columns">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="8" height="18" rx="1.5"></rect><rect x="13" y="3" width="8" height="18" rx="1.5"></rect></svg>
+                <span>Side by side</span>
+              </button>
+            </div>
+            <button id="swap-compare-btn" class="btn-swap-compare" title="Swap Roast A and Roast B (Key: S)" aria-label="Swap roasts">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M7 16V4m0 0L3 8m4-4l4 4m6 4v12m0 0l4-4m-4 4l-4-4"></path></svg>
+              <span>Swap A ⇄ B</span>
+            </button>
+            <button id="exit-compare-btn" class="btn-exit-compare" title="Exit comparison mode (Key: Esc)" aria-label="Exit comparison">
+              <span>Exit compare</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Dedicated Channel Filter Toolbar for Curves -->
+        <div class="compare-chart-toolbar">
+          <div class="chart-title-group">
+            <span class="chart-heading">Temperature and rate of rise</span>
+          </div>
+          <div class="chart-channel-legend" id="compare-channel-legend" aria-label="Comparison channel toggles">
+            <button class="channel-chip active" data-channel="bt" title="Toggle bean temperature (Key: 1)" aria-pressed="true">
+              <span class="indicator-dot dot-bt"></span> <strong>BT</strong>
+            </button>
+            <button class="channel-chip active" data-channel="et" title="Toggle environmental temperature (Key: 2)" aria-pressed="true">
+              <span class="indicator-dot dot-et"></span> <strong>ET</strong>
+            </button>
+            <button class="channel-chip active" data-channel="ror" title="Toggle rate of rise (Key: 3)" aria-pressed="true">
+              <span class="indicator-dot dot-ror"></span> <strong>RoR</strong>
+            </button>
+            <button class="channel-chip active" data-channel="heat" title="Toggle heat setting (Key: 4)" aria-pressed="true">
+              <span class="indicator-dot dot-heat"></span> Heat
+            </button>
+            <button class="channel-chip active" data-channel="fan" title="Toggle fan setting (Key: 5)" aria-pressed="true">
+              <span class="indicator-dot dot-fan"></span> Fan
+            </button>
+          </div>
+        </div>
+
+        <!-- Superimposed Compare Overlay Stage -->
+        <div class="compare-overlay-stage" id="compare-overlay-stage">
+          <div class="compare-overlay-legend-bar">
+            <div class="overlay-legend-item legend-a">
+              <span class="legend-curve-indicator solid-line"></span>
+              <span class="legend-slot-badge slot-a">Roast A</span>
+              <strong class="legend-roast-name" id="overlay-name-a">Loading Roast A…</strong>
+            </div>
+            <div class="overlay-legend-vs">vs</div>
+            <div class="overlay-legend-item legend-b">
+              <span class="legend-curve-indicator dashed-line"></span>
+              <span class="legend-slot-badge slot-b">Roast B</span>
+              <strong class="legend-roast-name" id="overlay-name-b">Select Roast B</strong>
+            </div>
+          </div>
+          <div class="canvas-stage-wrapper compare-overlay-canvas-wrapper">
+            <canvas id="cmp-overlay-canvas"></canvas>
+            <div id="cmp-overlay-tooltip" class="floating-tooltip hidden"></div>
+          </div>
+        </div>
+
+        <!-- Side by Side stage container -->
+        <div class="compare-columns-container hidden" id="compare-columns-container">
+          <!-- Column A -->
+          <div class="compare-col active-target" id="col-roast-a">
+            <div class="compare-col-header">
+              <button class="col-slot-select-btn slot-tag-a active" id="btn-focus-col-a" title="Click to select roasts for Slot A" aria-pressed="true">
+                <span>Roast A</span>
+                <span class="slot-target-pill">Target</span>
+              </button>
+              <div class="meta-tag-cluster">
+                <span class="meta-tag tag-origin" id="cmp-a-origin">-</span>
+                <span class="meta-tag tag-process" id="cmp-a-process">-</span>
+                <span class="meta-tag tag-date" id="cmp-a-date">-</span>
+              </div>
+            </div>
+
+            <div class="compare-hero-title-row">
+              <h3 class="hero-bean-name" id="cmp-a-title">-</h3>
+              <button id="cmp-a-more-btn" class="card-more-btn" title="Options for Roast A" aria-label="Options for Roast A">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="1.5"></circle><circle cx="19" cy="12" r="1.5"></circle><circle cx="5" cy="12" r="1.5"></circle></svg>
+              </button>
+              <a id="cmp-a-download" class="hidden" download href="#"></a>
+            </div>
+            <p class="hero-pedigree" id="cmp-a-pedigree">-</p>
+
+            <div class="telemetry-ribbon">
+              <div class="telemetry-cell">
+                <span class="cell-label">Batch weight</span>
+                <div class="cell-value-line" id="cmp-a-weight">-</div>
+              </div>
+              <div class="telemetry-cell">
+                <span class="cell-label">Total time</span>
+                <div class="cell-value-line" id="cmp-a-total-time">-</div>
+              </div>
+              <div class="telemetry-cell">
+                <span class="cell-label">Development (DTR)</span>
+                <div class="cell-value-line" id="cmp-a-dtr">-</div>
+              </div>
+              <div class="telemetry-cell">
+                <span class="cell-label">First crack</span>
+                <div class="cell-value-line" id="cmp-a-fc">-</div>
+              </div>
+              <div class="telemetry-cell">
+                <span class="cell-label">Drop temp</span>
+                <div class="cell-value-line" id="cmp-a-drop">-</div>
+              </div>
+              <div class="telemetry-cell" id="cell-cmp-a-score">
+                <span class="cell-label">Cupping score</span>
+                <div class="cell-value-line" id="cmp-a-score">-</div>
+              </div>
+            </div>
+
+            <div class="phase-timeline-embed">
+              <div class="timeline-legend">
+                <span class="legend-item"><span class="swatch swatch-dry"></span> <span id="cmp-a-label-dry">Dry: -</span></span>
+                <span class="legend-item"><span class="swatch swatch-mid"></span> <span id="cmp-a-label-mid">Maillard: -</span></span>
+                <span class="legend-item"><span class="swatch swatch-finish"></span> <span id="cmp-a-label-finish">Dev: -</span></span>
+              </div>
+              <div class="timeline-bar">
+                <div class="bar-segment seg-dry" id="cmp-a-bar-dry" style="width: 33%"></div>
+                <div class="bar-segment seg-mid" id="cmp-a-bar-mid" style="width: 33%"></div>
+                <div class="bar-segment seg-finish" id="cmp-a-bar-finish" style="width: 33%"></div>
+              </div>
+            </div>
+
+            <div class="canvas-stage-wrapper compare-canvas-wrapper">
+              <canvas id="cmp-canvas-a"></canvas>
+              <div id="cmp-tooltip-a" class="floating-tooltip hidden"></div>
+            </div>
+
+            <div class="sensory-grid">
+              <div class="sensory-card">
+                <h4 class="sensory-heading">Flavor notes</h4>
+                <div class="flavour-tag-row" id="cmp-a-flavour-chips"></div>
+              </div>
+              <div class="sensory-card">
+                <h4 class="sensory-heading">Roast goal</h4>
+                <p class="sensory-text" id="cmp-a-goal">-</p>
+              </div>
+              <div class="sensory-card full-row">
+                <h4 class="sensory-heading">Roast notes and cupping</h4>
+                <p class="cupping-text" id="cmp-a-cupping-notes">-</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Column B -->
+          <div class="compare-col" id="col-roast-b">
+            <div class="compare-col-header">
+              <button class="col-slot-select-btn slot-tag-b" id="btn-focus-col-b" title="Click to select roasts for Slot B" aria-pressed="false">
+                <span>Roast B</span>
+                <span class="slot-target-pill">Target</span>
+              </button>
+              <div class="meta-tag-cluster">
+                <span class="meta-tag tag-origin" id="cmp-b-origin">-</span>
+                <span class="meta-tag tag-process" id="cmp-b-process">-</span>
+                <span class="meta-tag tag-date" id="cmp-b-date">-</span>
+              </div>
+            </div>
+
+            <div class="compare-col-content" id="cmp-b-content">
+              <div class="compare-hero-title-row">
+                <h3 class="hero-bean-name" id="cmp-b-title">-</h3>
+                <button id="cmp-b-more-btn" class="card-more-btn" title="Options for Roast B" aria-label="Options for Roast B">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="1.5"></circle><circle cx="19" cy="12" r="1.5"></circle><circle cx="5" cy="12" r="1.5"></circle></svg>
+                </button>
+                <a id="cmp-b-download" class="hidden" download href="#"></a>
+              </div>
+              <p class="hero-pedigree" id="cmp-b-pedigree">-</p>
+
+              <div class="telemetry-ribbon">
+                <div class="telemetry-cell">
+                  <span class="cell-label">Batch weight</span>
+                  <div class="cell-value-line" id="cmp-b-weight">-</div>
+                </div>
+                <div class="telemetry-cell">
+                  <span class="cell-label">Total time</span>
+                  <div class="cell-value-line" id="cmp-b-total-time">-</div>
+                </div>
+                <div class="telemetry-cell">
+                  <span class="cell-label">Development (DTR)</span>
+                  <div class="cell-value-line" id="cmp-b-dtr">-</div>
+                </div>
+                <div class="telemetry-cell">
+                  <span class="cell-label">First crack</span>
+                  <div class="cell-value-line" id="cmp-b-fc">-</div>
+                </div>
+                <div class="telemetry-cell">
+                  <span class="cell-label">Drop temp</span>
+                  <div class="cell-value-line" id="cmp-b-drop">-</div>
+                </div>
+                <div class="telemetry-cell" id="cell-cmp-b-score">
+                  <span class="cell-label">Cupping score</span>
+                  <div class="cell-value-line" id="cmp-b-score">-</div>
+                </div>
+              </div>
+
+              <div class="phase-timeline-embed">
+                <div class="timeline-legend">
+                  <span class="legend-item"><span class="swatch swatch-dry"></span> <span id="cmp-b-label-dry">Dry: -</span></span>
+                  <span class="legend-item"><span class="swatch swatch-mid"></span> <span id="cmp-b-label-mid">Maillard: -</span></span>
+                  <span class="legend-item"><span class="swatch swatch-finish"></span> <span id="cmp-b-label-finish">Dev: -</span></span>
+                </div>
+                <div class="timeline-bar">
+                  <div class="bar-segment seg-dry" id="cmp-b-bar-dry" style="width: 33%"></div>
+                  <div class="bar-segment seg-mid" id="cmp-b-bar-mid" style="width: 33%"></div>
+                  <div class="bar-segment seg-finish" id="cmp-b-bar-finish" style="width: 33%"></div>
+                </div>
+              </div>
+
+              <div class="canvas-stage-wrapper compare-canvas-wrapper">
+                <canvas id="cmp-canvas-b"></canvas>
+                <div id="cmp-tooltip-b" class="floating-tooltip hidden"></div>
+              </div>
+
+              <div class="sensory-grid">
+                <div class="sensory-card">
+                  <h4 class="sensory-heading">Flavor notes</h4>
+                  <div class="flavour-tag-row" id="cmp-b-flavour-chips"></div>
+                </div>
+                <div class="sensory-card">
+                  <h4 class="sensory-heading">Roast goal</h4>
+                  <p class="sensory-text" id="cmp-b-goal">-</p>
+                </div>
+                <div class="sensory-card full-row">
+                  <h4 class="sensory-heading">Roast notes and cupping</h4>
+                  <p class="cupping-text" id="cmp-b-cupping-notes">-</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Empty state when Slot B is not yet selected -->
+            <div class="compare-col-empty hidden" id="cmp-b-empty">
+              <div class="empty-col-inner">
+                <div class="empty-icon-ring">
+                  <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="3"></rect><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg>
+                </div>
+                <h4 class="empty-col-title">Slot B is empty</h4>
+                <p class="empty-col-desc">Click any roast in the sidebar list to compare side by side with <strong id="empty-cmp-a-name">Roast A</strong>.</p>
+                <div class="empty-hint-tag">Ready for selection</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <!-- Custom Context Menu -->
+  <div id="roast-context-menu" class="context-menu hidden" role="menu" aria-label="Roast actions"></div>
+
+  <script src="app.js?v=1788432041"></script>
+</body>
+</html>

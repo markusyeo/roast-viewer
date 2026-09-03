@@ -1,0 +1,7126 @@
+{
+  "roasts": [
+    {
+      "id": "Colombia Supremo _Washed_ Light Roast-09-02-1159",
+      "file": "Colombia Supremo _Washed_ Light Roast-09-02-1159.alog",
+      "bean": "Colombia Supremo",
+      "origin": "Colombia",
+      "region": "",
+      "varietal": "Supremo",
+      "altitude_masl": "",
+      "process": "Washed",
+      "flavour_notes": "",
+      "weight_in_g": 139.5,
+      "weight_out_g": 124.0,
+      "loss_pct": 11.1,
+      "roast_level_target": "light",
+      "purpose": "filter",
+      "goal": "light roast, 7% DTR, 139.5g batch, immediate climb profile",
+      "verdict": "",
+      "cupping_notes": "Pre-cup roast notes: Surface color appears lighter than previous roast. First crack at 185.9 C (453s / 7:33), dropped at 188.1 C (485s / 8:05, 6.6% DTR). Deferring to cupping.",
+      "score": "",
+      "roast_date": "2026-09-02",
+      "roast_time": "11:44:48",
+      "milestones": {
+        "charge_bt": 34.2,
+        "charge_et": 34.2,
+        "tp_time": 5.0,
+        "tp_bt": 34.2,
+        "dry_time": 242.0,
+        "dry_bt": 157.7,
+        "fc_time": 453.0,
+        "fc_bt": 185.9,
+        "drop_time": 485.0,
+        "drop_bt": 188.1
+      },
+      "phases": {
+        "total_time_s": 485.0,
+        "dry_time_s": 242.0,
+        "mid_time_s": 211.0,
+        "finish_time_s": 32.0,
+        "dtr_pct": 6.6,
+        "dry_ror": 31.3,
+        "mid_ror": 0.0,
+        "finish_ror": 0.0,
+        "total_ror": 19.2
+      },
+      "curve": [
+        {
+          "time_s": 0,
+          "bt": 34.2,
+          "et": 34.2,
+          "ror": null,
+          "fan": 50,
+          "heat": 0
+        },
+        {
+          "time_s": 15,
+          "bt": 42.1,
+          "et": 57.1,
+          "ror": 33.9,
+          "fan": 51,
+          "heat": 66
+        },
+        {
+          "time_s": 30,
+          "bt": 51.1,
+          "et": 63.1,
+          "ror": 34.2,
+          "fan": 51,
+          "heat": 38
+        },
+        {
+          "time_s": 46,
+          "bt": 50.1,
+          "et": 52.1,
+          "ror": -4.0,
+          "fan": 51,
+          "heat": 55
+        },
+        {
+          "time_s": 61,
+          "bt": 53.1,
+          "et": 57.1,
+          "ror": 12.9,
+          "fan": 51,
+          "heat": 75
+        },
+        {
+          "time_s": 77,
+          "bt": 64.1,
+          "et": 82.4,
+          "ror": 44.2,
+          "fan": 51,
+          "heat": 82
+        },
+        {
+          "time_s": 92,
+          "bt": 78.3,
+          "et": 102.9,
+          "ror": 56.4,
+          "fan": 51,
+          "heat": 83
+        },
+        {
+          "time_s": 107,
+          "bt": 91.6,
+          "et": 114.3,
+          "ror": 52.6,
+          "fan": 51,
+          "heat": 81
+        },
+        {
+          "time_s": 123,
+          "bt": 101.9,
+          "et": 119.6,
+          "ror": 41.2,
+          "fan": 51,
+          "heat": 83
+        },
+        {
+          "time_s": 139,
+          "bt": 110.2,
+          "et": 123.8,
+          "ror": 31.1,
+          "fan": 51,
+          "heat": 82
+        },
+        {
+          "time_s": 154,
+          "bt": 117.5,
+          "et": 131.1,
+          "ror": 26.8,
+          "fan": 51,
+          "heat": 91
+        },
+        {
+          "time_s": 170,
+          "bt": 125.9,
+          "et": 138.5,
+          "ror": 31.5,
+          "fan": 51,
+          "heat": 88
+        },
+        {
+          "time_s": 186,
+          "bt": 133.2,
+          "et": 144.9,
+          "ror": 27.1,
+          "fan": 51,
+          "heat": 91
+        },
+        {
+          "time_s": 202,
+          "bt": 140.6,
+          "et": 153.4,
+          "ror": 27.2,
+          "fan": 46,
+          "heat": 95
+        },
+        {
+          "time_s": 218,
+          "bt": 149.2,
+          "et": 164.2,
+          "ror": 31.9,
+          "fan": 46,
+          "heat": 91
+        },
+        {
+          "time_s": 233,
+          "bt": 155.6,
+          "et": 167.4,
+          "ror": 27.5,
+          "fan": 46,
+          "heat": 87
+        },
+        {
+          "time_s": 249,
+          "bt": 158.8,
+          "et": 167.4,
+          "ror": 12.8,
+          "fan": 46,
+          "heat": 84
+        },
+        {
+          "time_s": 264,
+          "bt": 162.0,
+          "et": 167.4,
+          "ror": 13.8,
+          "fan": 45,
+          "heat": 91
+        },
+        {
+          "time_s": 280,
+          "bt": 164.2,
+          "et": 169.6,
+          "ror": 9.2,
+          "fan": 45,
+          "heat": 90
+        },
+        {
+          "time_s": 295,
+          "bt": 167.4,
+          "et": 171.7,
+          "ror": 9.3,
+          "fan": 45,
+          "heat": 86
+        },
+        {
+          "time_s": 310,
+          "bt": 169.6,
+          "et": 175.0,
+          "ror": 9.3,
+          "fan": 44,
+          "heat": 88
+        },
+        {
+          "time_s": 326,
+          "bt": 172.8,
+          "et": 177.2,
+          "ror": 8.6,
+          "fan": 44,
+          "heat": 88
+        },
+        {
+          "time_s": 342,
+          "bt": 175.0,
+          "et": 178.2,
+          "ror": 9.3,
+          "fan": 44,
+          "heat": 87
+        },
+        {
+          "time_s": 358,
+          "bt": 177.2,
+          "et": 179.3,
+          "ror": 8.7,
+          "fan": 44,
+          "heat": 93
+        },
+        {
+          "time_s": 373,
+          "bt": 179.3,
+          "et": 181.5,
+          "ror": 9.3,
+          "fan": 44,
+          "heat": 87
+        },
+        {
+          "time_s": 388,
+          "bt": 180.4,
+          "et": 181.5,
+          "ror": 4.7,
+          "fan": 44,
+          "heat": 92
+        },
+        {
+          "time_s": 404,
+          "bt": 182.6,
+          "et": 182.6,
+          "ror": 8.7,
+          "fan": 44,
+          "heat": 92
+        },
+        {
+          "time_s": 419,
+          "bt": 183.7,
+          "et": 183.7,
+          "ror": 4.7,
+          "fan": 44,
+          "heat": 86
+        },
+        {
+          "time_s": 435,
+          "bt": 184.8,
+          "et": 183.7,
+          "ror": 4.4,
+          "fan": 44,
+          "heat": 92
+        },
+        {
+          "time_s": 450,
+          "bt": 185.9,
+          "et": 187.0,
+          "ror": 4.7,
+          "fan": 42,
+          "heat": 92
+        },
+        {
+          "time_s": 466,
+          "bt": 187.0,
+          "et": 187.0,
+          "ror": 4.4,
+          "fan": 42,
+          "heat": 92
+        },
+        {
+          "time_s": 481,
+          "bt": 188.1,
+          "et": 188.1,
+          "ror": 4.7,
+          "fan": 42,
+          "heat": 91
+        },
+        {
+          "time_s": 496,
+          "bt": 187.0,
+          "et": 179.3,
+          "ror": -4.7,
+          "fan": 42,
+          "heat": 0
+        },
+        {
+          "time_s": 512,
+          "bt": 168.5,
+          "et": 132.2,
+          "ror": -69.5,
+          "fan": 70,
+          "heat": 0
+        },
+        {
+          "time_s": 527,
+          "bt": 141.7,
+          "et": 101.9,
+          "ror": -105.5,
+          "fan": 70,
+          "heat": 0
+        },
+        {
+          "time_s": 542,
+          "bt": 120.6,
+          "et": 87.5,
+          "ror": -85.8,
+          "fan": 70,
+          "heat": 0
+        },
+        {
+          "time_s": 558,
+          "bt": 104.0,
+          "et": 78.3,
+          "ror": -62.5,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 573,
+          "bt": 91.6,
+          "et": 72.2,
+          "ror": -48.6,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 588,
+          "bt": 80.3,
+          "et": 67.1,
+          "ror": -48.2,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 604,
+          "bt": 72.2,
+          "et": 64.1,
+          "ror": -30.5,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 619,
+          "bt": 67.1,
+          "et": 62.1,
+          "ror": -21.7,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 635,
+          "bt": 65.1,
+          "et": 61.1,
+          "ror": -8.7,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 651,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": -4.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 666,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 682,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 697,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 713,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 728,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 743,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 759,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 775,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 790,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 806,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 822,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 838,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 854,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 870,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 874,
+          "bt": 63.1,
+          "et": 59.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "Colombia Supremo _Washed_ Light Roast-09-02",
+      "file": "Colombia Supremo _Washed_ Light Roast-09-02.alog",
+      "bean": "Colombia Supremo",
+      "origin": "Colombia",
+      "region": "",
+      "varietal": "Supremo",
+      "altitude_masl": "",
+      "process": "Washed",
+      "flavour_notes": "",
+      "weight_in_g": 130.0,
+      "weight_out_g": 115.7,
+      "loss_pct": 11.0,
+      "roast_level_target": "light",
+      "purpose": "filter",
+      "goal": "5.5m target, 7% DTR (used Vietnam curve by mistake)",
+      "verdict": "",
+      "cupping_notes": "Pre-cup roast review: Light surface color and quiet aroma out of the roaster. First crack occurred at 185.9 C BT (439s / 7:19). Deferring to cupping.",
+      "score": "",
+      "roast_date": "2026-09-02",
+      "roast_time": "11:08:35",
+      "milestones": {
+        "charge_bt": 32.2,
+        "charge_et": 32.2,
+        "tp_time": 42.0,
+        "tp_bt": 32.2,
+        "dry_time": 215.0,
+        "dry_bt": 150.2,
+        "fc_time": 439.0,
+        "fc_bt": 185.9,
+        "drop_time": 469.0,
+        "drop_bt": 189.1
+      },
+      "phases": {
+        "total_time_s": 469.0,
+        "dry_time_s": 215.0,
+        "mid_time_s": 224.0,
+        "finish_time_s": 30.0,
+        "dtr_pct": 6.4,
+        "dry_ror": 40.9,
+        "mid_ror": 9.5,
+        "finish_ror": 6.6,
+        "total_ror": 22.0
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 32.2,
+          "et": 32.2,
+          "ror": null,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 17,
+          "bt": 32.2,
+          "et": 33.2,
+          "ror": 0.0,
+          "fan": 48,
+          "heat": 5
+        },
+        {
+          "time_s": 32,
+          "bt": 32.2,
+          "et": 33.2,
+          "ror": 0.0,
+          "fan": 48,
+          "heat": 17
+        },
+        {
+          "time_s": 47,
+          "bt": 33.2,
+          "et": 35.2,
+          "ror": 4.2,
+          "fan": 48,
+          "heat": 66
+        },
+        {
+          "time_s": 62,
+          "bt": 44.1,
+          "et": 66.1,
+          "ror": 46.7,
+          "fan": 47,
+          "heat": 95
+        },
+        {
+          "time_s": 78,
+          "bt": 69.2,
+          "et": 109.1,
+          "ror": 94.7,
+          "fan": 47,
+          "heat": 100
+        },
+        {
+          "time_s": 93,
+          "bt": 92.6,
+          "et": 135.3,
+          "ror": 91.8,
+          "fan": 46,
+          "heat": 93
+        },
+        {
+          "time_s": 108,
+          "bt": 108.1,
+          "et": 141.7,
+          "ror": 62.0,
+          "fan": 46,
+          "heat": 83
+        },
+        {
+          "time_s": 124,
+          "bt": 118.5,
+          "et": 137.5,
+          "ror": 37.5,
+          "fan": 45,
+          "heat": 75
+        },
+        {
+          "time_s": 139,
+          "bt": 122.7,
+          "et": 134.3,
+          "ror": 18.0,
+          "fan": 45,
+          "heat": 82
+        },
+        {
+          "time_s": 155,
+          "bt": 128.0,
+          "et": 137.5,
+          "ror": 18.0,
+          "fan": 45,
+          "heat": 85
+        },
+        {
+          "time_s": 171,
+          "bt": 134.3,
+          "et": 143.8,
+          "ror": 21.1,
+          "fan": 44,
+          "heat": 85
+        },
+        {
+          "time_s": 186,
+          "bt": 139.6,
+          "et": 150.2,
+          "ror": 22.7,
+          "fan": 44,
+          "heat": 82
+        },
+        {
+          "time_s": 202,
+          "bt": 144.9,
+          "et": 155.6,
+          "ror": 21.2,
+          "fan": 44,
+          "heat": 84
+        },
+        {
+          "time_s": 217,
+          "bt": 150.2,
+          "et": 159.9,
+          "ror": 18.3,
+          "fan": 43,
+          "heat": 84
+        },
+        {
+          "time_s": 233,
+          "bt": 155.6,
+          "et": 165.2,
+          "ror": 21.4,
+          "fan": 43,
+          "heat": 85
+        },
+        {
+          "time_s": 248,
+          "bt": 159.9,
+          "et": 169.6,
+          "ror": 18.4,
+          "fan": 42,
+          "heat": 88
+        },
+        {
+          "time_s": 264,
+          "bt": 164.2,
+          "et": 170.6,
+          "ror": 12.9,
+          "fan": 42,
+          "heat": 85
+        },
+        {
+          "time_s": 279,
+          "bt": 165.2,
+          "et": 169.6,
+          "ror": 4.6,
+          "fan": 41,
+          "heat": 86
+        },
+        {
+          "time_s": 294,
+          "bt": 168.5,
+          "et": 171.7,
+          "ror": 13.9,
+          "fan": 41,
+          "heat": 87
+        },
+        {
+          "time_s": 309,
+          "bt": 170.6,
+          "et": 175.0,
+          "ror": 9.3,
+          "fan": 41,
+          "heat": 90
+        },
+        {
+          "time_s": 324,
+          "bt": 172.8,
+          "et": 178.2,
+          "ror": 9.3,
+          "fan": 41,
+          "heat": 84
+        },
+        {
+          "time_s": 340,
+          "bt": 175.0,
+          "et": 178.2,
+          "ror": 8.7,
+          "fan": 41,
+          "heat": 87
+        },
+        {
+          "time_s": 356,
+          "bt": 177.2,
+          "et": 178.2,
+          "ror": 8.7,
+          "fan": 41,
+          "heat": 89
+        },
+        {
+          "time_s": 371,
+          "bt": 178.2,
+          "et": 181.5,
+          "ror": 4.6,
+          "fan": 41,
+          "heat": 90
+        },
+        {
+          "time_s": 387,
+          "bt": 181.5,
+          "et": 183.7,
+          "ror": 9.3,
+          "fan": 41,
+          "heat": 84
+        },
+        {
+          "time_s": 402,
+          "bt": 182.6,
+          "et": 183.7,
+          "ror": 4.7,
+          "fan": 41,
+          "heat": 88
+        },
+        {
+          "time_s": 418,
+          "bt": 183.7,
+          "et": 184.8,
+          "ror": 4.4,
+          "fan": 41,
+          "heat": 92
+        },
+        {
+          "time_s": 433,
+          "bt": 185.9,
+          "et": 187.0,
+          "ror": 9.3,
+          "fan": 41,
+          "heat": 86
+        },
+        {
+          "time_s": 449,
+          "bt": 187.0,
+          "et": 189.1,
+          "ror": 4.4,
+          "fan": 40,
+          "heat": 93
+        },
+        {
+          "time_s": 464,
+          "bt": 189.1,
+          "et": 191.3,
+          "ror": 9.3,
+          "fan": 40,
+          "heat": 85
+        },
+        {
+          "time_s": 480,
+          "bt": 187.0,
+          "et": 181.5,
+          "ror": -9.3,
+          "fan": 40,
+          "heat": 0
+        },
+        {
+          "time_s": 495,
+          "bt": 171.7,
+          "et": 138.5,
+          "ror": -65.3,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 511,
+          "bt": 142.8,
+          "et": 102.9,
+          "ror": -110.2,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 527,
+          "bt": 113.3,
+          "et": 85.4,
+          "ror": -113.6,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 543,
+          "bt": 91.6,
+          "et": 76.3,
+          "ror": -79.7,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 559,
+          "bt": 80.3,
+          "et": 70.2,
+          "ror": -39.4,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 575,
+          "bt": 74.2,
+          "et": 66.1,
+          "ror": -21.8,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 591,
+          "bt": 69.2,
+          "et": 63.1,
+          "ror": -16.2,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 606,
+          "bt": 65.1,
+          "et": 61.1,
+          "ror": -17.3,
+          "fan": 100,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "Vietnam Excelsa _Anoxic Natural_ 600 masl_ plan 2026-08-23 2",
+      "file": "Vietnam Excelsa _Anoxic Natural_ 600 masl_ plan 2026-08-23 2.alog",
+      "bean": "Vietnam Excelsa",
+      "origin": "Vietnam",
+      "region": "Huong Phung, Quang Tri",
+      "varietal": "Excelsa",
+      "altitude_masl": "600",
+      "process": "anoxic natural",
+      "flavour_notes": "Winey, Star Anise, Berry, Stevia, Jackfruit",
+      "weight_in_g": 120.0,
+      "weight_out_g": 105.6,
+      "loss_pct": 12.0,
+      "roast_level_target": "light",
+      "purpose": "filter",
+      "goal": "extend development to cook dense core, smooth RoR decay, drop ~197C",
+      "verdict": "",
+      "cupping_notes": "Pre-cup roast review: Visual appearance came out quite dark despite never reaching first crack. The 8m46s duration and 45s stall at 189.1C baked the sugary anoxic natural skin. Strategy for next roast: front-load aggressive heat early during dry phase to penetrate dense core, then a smooth shallow glide into FC at ~3-4 C/min RoR for a brief gentle crack and immediate drop to keep color light.",
+      "score": "",
+      "roast_date": "2026-08-23",
+      "roast_time": "17:38:42",
+      "milestones": {
+        "charge_bt": 34.2,
+        "charge_et": 34.2,
+        "tp_time": 49.0,
+        "tp_bt": 34.2,
+        "dry_time": 217.0,
+        "dry_bt": 150.2,
+        "fc_time": null,
+        "fc_bt": null,
+        "drop_time": 526.0,
+        "drop_bt": 189.1
+      },
+      "phases": {
+        "total_time_s": 526.0,
+        "dry_time_s": 217.0,
+        "mid_time_s": 309.0,
+        "finish_time_s": 0.0,
+        "dtr_pct": 0.0,
+        "dry_ror": 41.4,
+        "mid_ror": 0.0,
+        "finish_ror": 0.0,
+        "total_ror": 19.5
+      },
+      "curve": [
+        {
+          "time_s": 0,
+          "bt": 34.2,
+          "et": 34.2,
+          "ror": null,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 15,
+          "bt": 34.2,
+          "et": 34.2,
+          "ror": 0.0,
+          "fan": 48,
+          "heat": 5
+        },
+        {
+          "time_s": 30,
+          "bt": 34.2,
+          "et": 34.2,
+          "ror": 0.0,
+          "fan": 48,
+          "heat": 11
+        },
+        {
+          "time_s": 45,
+          "bt": 34.2,
+          "et": 35.2,
+          "ror": 0.0,
+          "fan": 48,
+          "heat": 49
+        },
+        {
+          "time_s": 61,
+          "bt": 40.1,
+          "et": 52.1,
+          "ror": 25.5,
+          "fan": 48,
+          "heat": 86
+        },
+        {
+          "time_s": 77,
+          "bt": 62.1,
+          "et": 94.7,
+          "ror": 85.7,
+          "fan": 48,
+          "heat": 90
+        },
+        {
+          "time_s": 93,
+          "bt": 83.4,
+          "et": 117.5,
+          "ror": 81.2,
+          "fan": 48,
+          "heat": 90
+        },
+        {
+          "time_s": 108,
+          "bt": 99.8,
+          "et": 129.0,
+          "ror": 66.0,
+          "fan": 48,
+          "heat": 86
+        },
+        {
+          "time_s": 124,
+          "bt": 113.3,
+          "et": 134.3,
+          "ror": 49.8,
+          "fan": 48,
+          "heat": 82
+        },
+        {
+          "time_s": 139,
+          "bt": 121.7,
+          "et": 136.4,
+          "ror": 31.3,
+          "fan": 48,
+          "heat": 82
+        },
+        {
+          "time_s": 155,
+          "bt": 129.0,
+          "et": 139.6,
+          "ror": 27.0,
+          "fan": 48,
+          "heat": 85
+        },
+        {
+          "time_s": 170,
+          "bt": 135.3,
+          "et": 142.8,
+          "ror": 22.6,
+          "fan": 48,
+          "heat": 84
+        },
+        {
+          "time_s": 186,
+          "bt": 140.6,
+          "et": 145.9,
+          "ror": 21.2,
+          "fan": 48,
+          "heat": 85
+        },
+        {
+          "time_s": 202,
+          "bt": 145.9,
+          "et": 150.2,
+          "ror": 21.2,
+          "fan": 48,
+          "heat": 85
+        },
+        {
+          "time_s": 218,
+          "bt": 150.2,
+          "et": 155.6,
+          "ror": 17.1,
+          "fan": 48,
+          "heat": 87
+        },
+        {
+          "time_s": 233,
+          "bt": 155.6,
+          "et": 158.8,
+          "ror": 18.3,
+          "fan": 48,
+          "heat": 88
+        },
+        {
+          "time_s": 249,
+          "bt": 159.9,
+          "et": 163.1,
+          "ror": 17.2,
+          "fan": 48,
+          "heat": 88
+        },
+        {
+          "time_s": 264,
+          "bt": 163.1,
+          "et": 165.2,
+          "ror": 13.8,
+          "fan": 48,
+          "heat": 85
+        },
+        {
+          "time_s": 280,
+          "bt": 165.2,
+          "et": 165.2,
+          "ror": 8.6,
+          "fan": 48,
+          "heat": 90
+        },
+        {
+          "time_s": 295,
+          "bt": 167.4,
+          "et": 167.4,
+          "ror": 4.6,
+          "fan": 48,
+          "heat": 92
+        },
+        {
+          "time_s": 310,
+          "bt": 170.6,
+          "et": 170.6,
+          "ror": 9.3,
+          "fan": 48,
+          "heat": 89
+        },
+        {
+          "time_s": 326,
+          "bt": 172.8,
+          "et": 171.7,
+          "ror": 9.3,
+          "fan": 48,
+          "heat": 93
+        },
+        {
+          "time_s": 342,
+          "bt": 175.0,
+          "et": 173.9,
+          "ror": 8.7,
+          "fan": 48,
+          "heat": 89
+        },
+        {
+          "time_s": 357,
+          "bt": 177.2,
+          "et": 176.1,
+          "ror": 9.3,
+          "fan": 48,
+          "heat": 92
+        },
+        {
+          "time_s": 372,
+          "bt": 179.3,
+          "et": 178.2,
+          "ror": 9.3,
+          "fan": 48,
+          "heat": 96
+        },
+        {
+          "time_s": 388,
+          "bt": 181.5,
+          "et": 180.4,
+          "ror": 8.7,
+          "fan": 48,
+          "heat": 95
+        },
+        {
+          "time_s": 403,
+          "bt": 182.6,
+          "et": 180.4,
+          "ror": 4.7,
+          "fan": 48,
+          "heat": 95
+        },
+        {
+          "time_s": 418,
+          "bt": 183.7,
+          "et": 182.6,
+          "ror": 4.7,
+          "fan": 48,
+          "heat": 98
+        },
+        {
+          "time_s": 433,
+          "bt": 185.9,
+          "et": 183.7,
+          "ror": 9.3,
+          "fan": 48,
+          "heat": 96
+        },
+        {
+          "time_s": 449,
+          "bt": 187.0,
+          "et": 184.8,
+          "ror": 4.7,
+          "fan": 48,
+          "heat": 98
+        },
+        {
+          "time_s": 465,
+          "bt": 189.1,
+          "et": 185.9,
+          "ror": 4.4,
+          "fan": 48,
+          "heat": 93
+        },
+        {
+          "time_s": 480,
+          "bt": 189.1,
+          "et": 183.7,
+          "ror": 0.0,
+          "fan": 48,
+          "heat": 92
+        },
+        {
+          "time_s": 495,
+          "bt": 189.1,
+          "et": 182.6,
+          "ror": 0.0,
+          "fan": 48,
+          "heat": 94
+        },
+        {
+          "time_s": 510,
+          "bt": 189.1,
+          "et": 183.7,
+          "ror": 0.0,
+          "fan": 48,
+          "heat": 92
+        },
+        {
+          "time_s": 526,
+          "bt": 189.1,
+          "et": 182.6,
+          "ror": 0.0,
+          "fan": 48,
+          "heat": 73
+        },
+        {
+          "time_s": 542,
+          "bt": 175.0,
+          "et": 145.9,
+          "ror": -56.1,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 557,
+          "bt": 152.3,
+          "et": 113.3,
+          "ror": -92.3,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 573,
+          "bt": 133.2,
+          "et": 95.7,
+          "ror": -72.8,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 589,
+          "bt": 115.4,
+          "et": 84.4,
+          "ror": -62.9,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 604,
+          "bt": 99.8,
+          "et": 75.2,
+          "ror": -62.3,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 620,
+          "bt": 86.5,
+          "et": 68.2,
+          "ror": -49.4,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 635,
+          "bt": 74.2,
+          "et": 64.1,
+          "ror": -52.4,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 651,
+          "bt": 68.2,
+          "et": 61.1,
+          "ror": -20.2,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 666,
+          "bt": 65.1,
+          "et": 59.1,
+          "ror": -13.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 682,
+          "bt": 62.1,
+          "et": 57.1,
+          "ror": -13.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 698,
+          "bt": 59.1,
+          "et": 55.1,
+          "ror": -12.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 714,
+          "bt": 56.1,
+          "et": 53.1,
+          "ror": -12.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 729,
+          "bt": 55.1,
+          "et": 52.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 736,
+          "bt": 54.1,
+          "et": 51.1,
+          "ror": -4.0,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "Catuai Amarillo _PNG_ Kindeng Mill_ Western Highlands_ Natural_ plan 2026-08-23",
+      "file": "Catuai Amarillo _PNG_ Kindeng Mill_ Western Highlands_ Natural_ plan 2026-08-23.alog",
+      "bean": "Catuai Amarillo",
+      "origin": "Papua New Guinea",
+      "region": "Kindeng Mill, Western Highlands",
+      "varietal": "Catuai Amarillo",
+      "altitude_masl": "1520-1770",
+      "process": "natural",
+      "flavour_notes": "Maraschino Cherry, Brown Sugar, Kombucha",
+      "weight_in_g": 150.0,
+      "weight_out_g": 132.0,
+      "loss_pct": 12.0,
+      "roast_level_target": "light",
+      "purpose": "filter",
+      "goal": "light roast, low DTR (target 5-10%), preserve bright fruit/kombucha funk, avoid heavy browning",
+      "verdict": "",
+      "cupping_notes": "Not formally cupped yet. Pre-cup impression: too dark. Actual DTR came out 12.5% (FC 351s, drop 401s) vs a 19% plan target the user now says was too high \u2014 they want DTR closer to 5-10%. Also wants RoR to enter FC around 6 C/min and cut hard to ~3 C/min quickly after, to minimize browning.",
+      "score": "",
+      "roast_date": "2026-08-23",
+      "roast_time": "16:05:10",
+      "milestones": {
+        "charge_bt": 34.2,
+        "charge_et": 34.2,
+        "tp_time": 27.0,
+        "tp_bt": 34.2,
+        "dry_time": 178.0,
+        "dry_bt": 150.2,
+        "fc_time": 351.0,
+        "fc_bt": 189.1,
+        "drop_time": 401.0,
+        "drop_bt": 194.6
+      },
+      "phases": {
+        "total_time_s": 401.0,
+        "dry_time_s": 178.0,
+        "mid_time_s": 173.0,
+        "finish_time_s": 50.0,
+        "dtr_pct": 12.5,
+        "dry_ror": 46.1,
+        "mid_ror": 13.5,
+        "finish_ror": 6.6,
+        "total_ror": 25.7
+      },
+      "curve": [
+        {
+          "time_s": 0,
+          "bt": 34.2,
+          "et": 34.2,
+          "ror": null,
+          "fan": 52,
+          "heat": 0
+        },
+        {
+          "time_s": 15,
+          "bt": 34.2,
+          "et": 34.2,
+          "ror": 0.0,
+          "fan": 52,
+          "heat": 21
+        },
+        {
+          "time_s": 31,
+          "bt": 35.2,
+          "et": 38.1,
+          "ror": 4.0,
+          "fan": 52,
+          "heat": 72
+        },
+        {
+          "time_s": 46,
+          "bt": 48.1,
+          "et": 72.2,
+          "ror": 51.1,
+          "fan": 52,
+          "heat": 96
+        },
+        {
+          "time_s": 62,
+          "bt": 71.2,
+          "et": 109.1,
+          "ror": 86.2,
+          "fan": 52,
+          "heat": 93
+        },
+        {
+          "time_s": 78,
+          "bt": 92.6,
+          "et": 128.0,
+          "ror": 77.6,
+          "fan": 52,
+          "heat": 89
+        },
+        {
+          "time_s": 93,
+          "bt": 107.1,
+          "et": 134.3,
+          "ror": 57.5,
+          "fan": 52,
+          "heat": 86
+        },
+        {
+          "time_s": 109,
+          "bt": 116.4,
+          "et": 134.3,
+          "ror": 37.5,
+          "fan": 52,
+          "heat": 83
+        },
+        {
+          "time_s": 124,
+          "bt": 123.8,
+          "et": 136.4,
+          "ror": 26.9,
+          "fan": 51,
+          "heat": 86
+        },
+        {
+          "time_s": 140,
+          "bt": 131.1,
+          "et": 143.8,
+          "ror": 27.0,
+          "fan": 51,
+          "heat": 91
+        },
+        {
+          "time_s": 156,
+          "bt": 139.6,
+          "et": 152.3,
+          "ror": 29.6,
+          "fan": 51,
+          "heat": 92
+        },
+        {
+          "time_s": 171,
+          "bt": 147.0,
+          "et": 158.8,
+          "ror": 27.3,
+          "fan": 50,
+          "heat": 93
+        },
+        {
+          "time_s": 187,
+          "bt": 153.4,
+          "et": 165.2,
+          "ror": 22.9,
+          "fan": 48,
+          "heat": 93
+        },
+        {
+          "time_s": 203,
+          "bt": 159.9,
+          "et": 171.7,
+          "ror": 21.5,
+          "fan": 48,
+          "heat": 97
+        },
+        {
+          "time_s": 218,
+          "bt": 166.3,
+          "et": 176.1,
+          "ror": 23.1,
+          "fan": 48,
+          "heat": 92
+        },
+        {
+          "time_s": 233,
+          "bt": 170.6,
+          "et": 178.2,
+          "ror": 18.5,
+          "fan": 48,
+          "heat": 89
+        },
+        {
+          "time_s": 248,
+          "bt": 173.9,
+          "et": 179.3,
+          "ror": 13.9,
+          "fan": 48,
+          "heat": 89
+        },
+        {
+          "time_s": 264,
+          "bt": 176.1,
+          "et": 180.4,
+          "ror": 8.7,
+          "fan": 48,
+          "heat": 94
+        },
+        {
+          "time_s": 279,
+          "bt": 179.3,
+          "et": 182.6,
+          "ror": 14.0,
+          "fan": 47,
+          "heat": 90
+        },
+        {
+          "time_s": 295,
+          "bt": 182.6,
+          "et": 185.9,
+          "ror": 13.1,
+          "fan": 47,
+          "heat": 96
+        },
+        {
+          "time_s": 311,
+          "bt": 184.8,
+          "et": 188.1,
+          "ror": 8.7,
+          "fan": 47,
+          "heat": 95
+        },
+        {
+          "time_s": 326,
+          "bt": 187.0,
+          "et": 189.1,
+          "ror": 9.4,
+          "fan": 47,
+          "heat": 94
+        },
+        {
+          "time_s": 341,
+          "bt": 188.1,
+          "et": 189.1,
+          "ror": 4.7,
+          "fan": 47,
+          "heat": 96
+        },
+        {
+          "time_s": 356,
+          "bt": 190.2,
+          "et": 191.3,
+          "ror": 4.7,
+          "fan": 47,
+          "heat": 93
+        },
+        {
+          "time_s": 371,
+          "bt": 191.3,
+          "et": 193.5,
+          "ror": 4.7,
+          "fan": 47,
+          "heat": 97
+        },
+        {
+          "time_s": 387,
+          "bt": 193.5,
+          "et": 195.7,
+          "ror": 4.4,
+          "fan": 47,
+          "heat": 97
+        },
+        {
+          "time_s": 402,
+          "bt": 194.6,
+          "et": 195.7,
+          "ror": 0.0,
+          "fan": 47,
+          "heat": 97
+        },
+        {
+          "time_s": 418,
+          "bt": 182.6,
+          "et": 159.9,
+          "ror": -56.3,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 434,
+          "bt": 155.6,
+          "et": 114.3,
+          "ror": -103.7,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 450,
+          "bt": 132.2,
+          "et": 93.6,
+          "ror": -89.2,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 465,
+          "bt": 113.3,
+          "et": 81.3,
+          "ror": -76.4,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 480,
+          "bt": 98.8,
+          "et": 74.2,
+          "ror": -57.7,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 496,
+          "bt": 86.5,
+          "et": 68.2,
+          "ror": -44.0,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 511,
+          "bt": 77.3,
+          "et": 63.1,
+          "ror": -35.0,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 526,
+          "bt": 70.2,
+          "et": 59.1,
+          "ror": -30.4,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 542,
+          "bt": 65.1,
+          "et": 56.1,
+          "ror": -21.6,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 557,
+          "bt": 61.1,
+          "et": 54.1,
+          "ror": -17.3,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 573,
+          "bt": 58.1,
+          "et": 52.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 589,
+          "bt": 56.1,
+          "et": 51.1,
+          "ror": -8.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 603,
+          "bt": 54.1,
+          "et": 50.1,
+          "ror": -8.0,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "26-04-24_2133 Eth",
+      "file": "26-04-24_2133 Eth.alog",
+      "bean": "Ethiopia Roast 2",
+      "origin": "Ethiopia",
+      "region": "",
+      "varietal": "",
+      "altitude_masl": "",
+      "process": "",
+      "flavour_notes": "",
+      "weight_in_g": 120.2,
+      "weight_out_g": 104.8,
+      "loss_pct": 12.8,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2026-04-24",
+      "roast_time": "21:23:34",
+      "milestones": {
+        "charge_bt": 37.1,
+        "charge_et": 37.1,
+        "tp_time": 7.0,
+        "tp_bt": 37.1,
+        "dry_time": 208.0,
+        "dry_bt": 150.2,
+        "fc_time": 373.0,
+        "fc_bt": 188.1,
+        "drop_time": 407.0,
+        "drop_bt": 192.4
+      },
+      "phases": {
+        "total_time_s": 407.0,
+        "dry_time_s": 208.0,
+        "mid_time_s": 165.0,
+        "finish_time_s": 34.0,
+        "dtr_pct": 8.4,
+        "dry_ror": 33.8,
+        "mid_ror": 13.8,
+        "finish_ror": 7.7,
+        "total_ror": 23.3
+      },
+      "curve": [
+        {
+          "time_s": 0,
+          "bt": 37.1,
+          "et": 37.1,
+          "ror": null,
+          "fan": 56,
+          "heat": 0
+        },
+        {
+          "time_s": 15,
+          "bt": 46.1,
+          "et": 64.1,
+          "ror": 38.3,
+          "fan": 56,
+          "heat": 100
+        },
+        {
+          "time_s": 30,
+          "bt": 70.2,
+          "et": 106.0,
+          "ror": 94.7,
+          "fan": 56,
+          "heat": 82
+        },
+        {
+          "time_s": 46,
+          "bt": 83.4,
+          "et": 105.0,
+          "ror": 48.8,
+          "fan": 56,
+          "heat": 77
+        },
+        {
+          "time_s": 62,
+          "bt": 89.5,
+          "et": 98.8,
+          "ror": 20.5,
+          "fan": 56,
+          "heat": 78
+        },
+        {
+          "time_s": 77,
+          "bt": 94.7,
+          "et": 104.0,
+          "ror": 22.0,
+          "fan": 56,
+          "heat": 82
+        },
+        {
+          "time_s": 93,
+          "bt": 101.9,
+          "et": 111.2,
+          "ror": 24.8,
+          "fan": 56,
+          "heat": 83
+        },
+        {
+          "time_s": 108,
+          "bt": 109.1,
+          "et": 118.5,
+          "ror": 26.7,
+          "fan": 56,
+          "heat": 85
+        },
+        {
+          "time_s": 124,
+          "bt": 116.4,
+          "et": 124.8,
+          "ror": 26.8,
+          "fan": 56,
+          "heat": 89
+        },
+        {
+          "time_s": 140,
+          "bt": 123.8,
+          "et": 133.2,
+          "ror": 29.3,
+          "fan": 56,
+          "heat": 92
+        },
+        {
+          "time_s": 155,
+          "bt": 130.1,
+          "et": 138.5,
+          "ror": 22.5,
+          "fan": 56,
+          "heat": 87
+        },
+        {
+          "time_s": 171,
+          "bt": 136.4,
+          "et": 144.9,
+          "ror": 21.1,
+          "fan": 56,
+          "heat": 90
+        },
+        {
+          "time_s": 186,
+          "bt": 142.8,
+          "et": 150.2,
+          "ror": 22.7,
+          "fan": 56,
+          "heat": 92
+        },
+        {
+          "time_s": 201,
+          "bt": 148.1,
+          "et": 154.5,
+          "ror": 18.2,
+          "fan": 54,
+          "heat": 94
+        },
+        {
+          "time_s": 217,
+          "bt": 153.4,
+          "et": 159.9,
+          "ror": 17.1,
+          "fan": 54,
+          "heat": 94
+        },
+        {
+          "time_s": 232,
+          "bt": 158.8,
+          "et": 164.2,
+          "ror": 18.4,
+          "fan": 54,
+          "heat": 98
+        },
+        {
+          "time_s": 247,
+          "bt": 163.1,
+          "et": 168.5,
+          "ror": 18.4,
+          "fan": 54,
+          "heat": 93
+        },
+        {
+          "time_s": 263,
+          "bt": 167.4,
+          "et": 170.6,
+          "ror": 13.9,
+          "fan": 54,
+          "heat": 95
+        },
+        {
+          "time_s": 278,
+          "bt": 170.6,
+          "et": 173.9,
+          "ror": 13.9,
+          "fan": 54,
+          "heat": 95
+        },
+        {
+          "time_s": 294,
+          "bt": 173.9,
+          "et": 177.2,
+          "ror": 13.9,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 310,
+          "bt": 178.2,
+          "et": 180.4,
+          "ror": 13.0,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 325,
+          "bt": 180.4,
+          "et": 183.7,
+          "ror": 9.3,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 341,
+          "bt": 183.7,
+          "et": 185.9,
+          "ror": 8.7,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 357,
+          "bt": 185.9,
+          "et": 187.0,
+          "ror": 8.7,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 372,
+          "bt": 188.1,
+          "et": 188.1,
+          "ror": 4.7,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 388,
+          "bt": 190.2,
+          "et": 190.2,
+          "ror": 9.4,
+          "fan": 54,
+          "heat": 98
+        },
+        {
+          "time_s": 403,
+          "bt": 191.3,
+          "et": 191.3,
+          "ror": 4.7,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 418,
+          "bt": 191.3,
+          "et": 185.9,
+          "ror": 0.0,
+          "fan": 80,
+          "heat": 97
+        },
+        {
+          "time_s": 434,
+          "bt": 167.4,
+          "et": 136.4,
+          "ror": -102.6,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 449,
+          "bt": 136.4,
+          "et": 100.8,
+          "ror": -123.6,
+          "fan": 84,
+          "heat": 0
+        },
+        {
+          "time_s": 464,
+          "bt": 113.3,
+          "et": 85.4,
+          "ror": -90.0,
+          "fan": 84,
+          "heat": 0
+        },
+        {
+          "time_s": 480,
+          "bt": 96.7,
+          "et": 75.2,
+          "ror": -57.7,
+          "fan": 84,
+          "heat": 0
+        },
+        {
+          "time_s": 495,
+          "bt": 85.4,
+          "et": 69.2,
+          "ror": -44.0,
+          "fan": 84,
+          "heat": 0
+        },
+        {
+          "time_s": 510,
+          "bt": 76.3,
+          "et": 64.1,
+          "ror": -39.3,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 526,
+          "bt": 69.2,
+          "et": 62.1,
+          "ror": -26.1,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 542,
+          "bt": 66.1,
+          "et": 61.1,
+          "ror": -13.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 558,
+          "bt": 64.1,
+          "et": 59.1,
+          "ror": -8.1,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 574,
+          "bt": 61.1,
+          "et": 57.1,
+          "ror": -12.1,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "26-04-24_2107 Eth",
+      "file": "26-04-24_2107 Eth.alog",
+      "bean": "Ethiopia Roast 1",
+      "origin": "Ethiopia",
+      "region": "",
+      "varietal": "",
+      "altitude_masl": "",
+      "process": "",
+      "flavour_notes": "",
+      "weight_in_g": 120.1,
+      "weight_out_g": 106.5,
+      "loss_pct": 11.3,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2026-04-24",
+      "roast_time": "21:07:32",
+      "milestones": {
+        "charge_bt": 31.2,
+        "charge_et": 32.2,
+        "tp_time": 8.0,
+        "tp_bt": 31.2,
+        "dry_time": 177.0,
+        "dry_bt": 151.3,
+        "fc_time": 325.0,
+        "fc_bt": 185.9,
+        "drop_time": 360.0,
+        "drop_bt": 189.1
+      },
+      "phases": {
+        "total_time_s": 360.0,
+        "dry_time_s": 177.0,
+        "mid_time_s": 148.0,
+        "finish_time_s": 35.0,
+        "dtr_pct": 9.7,
+        "dry_ror": 42.6,
+        "mid_ror": 14.0,
+        "finish_ror": 5.6,
+        "total_ror": 26.9
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 31.2,
+          "et": 32.2,
+          "ror": null,
+          "fan": 54,
+          "heat": 0
+        },
+        {
+          "time_s": 17,
+          "bt": 34.2,
+          "et": 39.1,
+          "ror": 12.7,
+          "fan": 54,
+          "heat": 73
+        },
+        {
+          "time_s": 32,
+          "bt": 48.1,
+          "et": 70.2,
+          "ror": 59.6,
+          "fan": 54,
+          "heat": 80
+        },
+        {
+          "time_s": 48,
+          "bt": 68.2,
+          "et": 96.7,
+          "ror": 76.4,
+          "fan": 54,
+          "heat": 88
+        },
+        {
+          "time_s": 63,
+          "bt": 84.4,
+          "et": 110.2,
+          "ror": 65.4,
+          "fan": 54,
+          "heat": 84
+        },
+        {
+          "time_s": 79,
+          "bt": 98.8,
+          "et": 119.6,
+          "ror": 53.4,
+          "fan": 54,
+          "heat": 86
+        },
+        {
+          "time_s": 94,
+          "bt": 109.1,
+          "et": 125.9,
+          "ror": 44.4,
+          "fan": 54,
+          "heat": 88
+        },
+        {
+          "time_s": 110,
+          "bt": 118.5,
+          "et": 133.2,
+          "ror": 37.5,
+          "fan": 54,
+          "heat": 90
+        },
+        {
+          "time_s": 125,
+          "bt": 126.9,
+          "et": 139.6,
+          "ror": 31.5,
+          "fan": 54,
+          "heat": 91
+        },
+        {
+          "time_s": 141,
+          "bt": 135.3,
+          "et": 145.9,
+          "ror": 29.5,
+          "fan": 54,
+          "heat": 86
+        },
+        {
+          "time_s": 157,
+          "bt": 141.7,
+          "et": 152.3,
+          "ror": 25.4,
+          "fan": 54,
+          "heat": 90
+        },
+        {
+          "time_s": 173,
+          "bt": 149.2,
+          "et": 157.7,
+          "ror": 27.4,
+          "fan": 54,
+          "heat": 96
+        },
+        {
+          "time_s": 188,
+          "bt": 154.5,
+          "et": 162.0,
+          "ror": 22.9,
+          "fan": 54,
+          "heat": 93
+        },
+        {
+          "time_s": 203,
+          "bt": 158.8,
+          "et": 166.3,
+          "ror": 18.4,
+          "fan": 54,
+          "heat": 98
+        },
+        {
+          "time_s": 219,
+          "bt": 164.2,
+          "et": 169.6,
+          "ror": 17.2,
+          "fan": 54,
+          "heat": 95
+        },
+        {
+          "time_s": 235,
+          "bt": 168.5,
+          "et": 173.9,
+          "ror": 17.3,
+          "fan": 54,
+          "heat": 95
+        },
+        {
+          "time_s": 251,
+          "bt": 172.8,
+          "et": 176.1,
+          "ror": 13.0,
+          "fan": 54,
+          "heat": 95
+        },
+        {
+          "time_s": 266,
+          "bt": 176.1,
+          "et": 179.3,
+          "ror": 14.0,
+          "fan": 54,
+          "heat": 95
+        },
+        {
+          "time_s": 282,
+          "bt": 179.3,
+          "et": 181.5,
+          "ror": 14.0,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 298,
+          "bt": 182.6,
+          "et": 183.7,
+          "ror": 13.1,
+          "fan": 54,
+          "heat": 94
+        },
+        {
+          "time_s": 314,
+          "bt": 184.8,
+          "et": 184.8,
+          "ror": 9.3,
+          "fan": 54,
+          "heat": 94
+        },
+        {
+          "time_s": 329,
+          "bt": 187.0,
+          "et": 187.0,
+          "ror": 9.4,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 344,
+          "bt": 188.1,
+          "et": 188.1,
+          "ror": 4.7,
+          "fan": 54,
+          "heat": 99
+        },
+        {
+          "time_s": 359,
+          "bt": 189.1,
+          "et": 188.1,
+          "ror": 4.7,
+          "fan": 54,
+          "heat": 99
+        },
+        {
+          "time_s": 361,
+          "bt": 189.1,
+          "et": 188.1,
+          "ror": 4.4,
+          "fan": 54,
+          "heat": 100
+        }
+      ]
+    },
+    {
+      "id": "25-12-02_1948 Supremo",
+      "file": "25-12-02_1948 Supremo.alog",
+      "bean": "Colombia Supremo",
+      "origin": "Colombia",
+      "region": "",
+      "varietal": "Supremo",
+      "altitude_masl": "",
+      "process": "Washed",
+      "flavour_notes": "",
+      "weight_in_g": 100.1,
+      "weight_out_g": 88.8,
+      "loss_pct": 11.3,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2025-12-02",
+      "roast_time": "19:48:13",
+      "milestones": {
+        "charge_bt": 29.2,
+        "charge_et": 29.2,
+        "tp_time": 9.0,
+        "tp_bt": 29.2,
+        "dry_time": 172.0,
+        "dry_bt": 149.2,
+        "fc_time": 341.0,
+        "fc_bt": 188.1,
+        "drop_time": 368.0,
+        "drop_bt": 190.2
+      },
+      "phases": {
+        "total_time_s": 368.0,
+        "dry_time_s": 172.0,
+        "mid_time_s": 169.0,
+        "finish_time_s": 27.0,
+        "dtr_pct": 7.3,
+        "dry_ror": 44.1,
+        "mid_ror": 13.8,
+        "finish_ror": 4.9,
+        "total_ror": 26.9
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 29.2,
+          "et": 29.2,
+          "ror": null,
+          "fan": 56,
+          "heat": 0
+        },
+        {
+          "time_s": 16,
+          "bt": 31.2,
+          "et": 37.1,
+          "ror": 8.4,
+          "fan": 56,
+          "heat": 76
+        },
+        {
+          "time_s": 31,
+          "bt": 47.1,
+          "et": 69.2,
+          "ror": 59.5,
+          "fan": 54,
+          "heat": 88
+        },
+        {
+          "time_s": 46,
+          "bt": 66.1,
+          "et": 94.7,
+          "ror": 73.2,
+          "fan": 50,
+          "heat": 84
+        },
+        {
+          "time_s": 62,
+          "bt": 85.4,
+          "et": 111.2,
+          "ror": 74.1,
+          "fan": 50,
+          "heat": 79
+        },
+        {
+          "time_s": 78,
+          "bt": 98.8,
+          "et": 119.6,
+          "ror": 52.9,
+          "fan": 50,
+          "heat": 78
+        },
+        {
+          "time_s": 94,
+          "bt": 109.1,
+          "et": 124.8,
+          "ror": 41.4,
+          "fan": 50,
+          "heat": 82
+        },
+        {
+          "time_s": 109,
+          "bt": 118.5,
+          "et": 131.1,
+          "ror": 35.7,
+          "fan": 50,
+          "heat": 86
+        },
+        {
+          "time_s": 125,
+          "bt": 128.0,
+          "et": 138.5,
+          "ror": 33.6,
+          "fan": 50,
+          "heat": 87
+        },
+        {
+          "time_s": 141,
+          "bt": 135.3,
+          "et": 144.9,
+          "ror": 29.5,
+          "fan": 50,
+          "heat": 87
+        },
+        {
+          "time_s": 157,
+          "bt": 142.8,
+          "et": 150.2,
+          "ror": 29.7,
+          "fan": 50,
+          "heat": 87
+        },
+        {
+          "time_s": 173,
+          "bt": 149.2,
+          "et": 154.5,
+          "ror": 25.6,
+          "fan": 50,
+          "heat": 93
+        },
+        {
+          "time_s": 188,
+          "bt": 154.5,
+          "et": 159.9,
+          "ror": 22.9,
+          "fan": 50,
+          "heat": 90
+        },
+        {
+          "time_s": 204,
+          "bt": 159.9,
+          "et": 164.2,
+          "ror": 23.0,
+          "fan": 50,
+          "heat": 90
+        },
+        {
+          "time_s": 220,
+          "bt": 165.2,
+          "et": 168.5,
+          "ror": 21.5,
+          "fan": 50,
+          "heat": 90
+        },
+        {
+          "time_s": 235,
+          "bt": 168.5,
+          "et": 171.7,
+          "ror": 13.9,
+          "fan": 50,
+          "heat": 96
+        },
+        {
+          "time_s": 251,
+          "bt": 172.8,
+          "et": 175.0,
+          "ror": 13.0,
+          "fan": 50,
+          "heat": 92
+        },
+        {
+          "time_s": 267,
+          "bt": 176.1,
+          "et": 177.2,
+          "ror": 13.0,
+          "fan": 50,
+          "heat": 95
+        },
+        {
+          "time_s": 283,
+          "bt": 179.3,
+          "et": 178.2,
+          "ror": 9.3,
+          "fan": 50,
+          "heat": 94
+        },
+        {
+          "time_s": 299,
+          "bt": 182.6,
+          "et": 181.5,
+          "ror": 13.1,
+          "fan": 50,
+          "heat": 97
+        },
+        {
+          "time_s": 314,
+          "bt": 184.8,
+          "et": 183.7,
+          "ror": 9.3,
+          "fan": 50,
+          "heat": 94
+        },
+        {
+          "time_s": 329,
+          "bt": 187.0,
+          "et": 184.8,
+          "ror": 9.4,
+          "fan": 50,
+          "heat": 94
+        },
+        {
+          "time_s": 345,
+          "bt": 188.1,
+          "et": 187.0,
+          "ror": 4.7,
+          "fan": 50,
+          "heat": 97
+        },
+        {
+          "time_s": 360,
+          "bt": 189.1,
+          "et": 187.0,
+          "ror": 4.7,
+          "fan": 50,
+          "heat": 99
+        },
+        {
+          "time_s": 376,
+          "bt": 190.2,
+          "et": 185.9,
+          "ror": 4.7,
+          "fan": 50,
+          "heat": 0
+        },
+        {
+          "time_s": 391,
+          "bt": 171.7,
+          "et": 140.6,
+          "ror": -74.7,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 407,
+          "bt": 141.7,
+          "et": 102.9,
+          "ror": -102.8,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 422,
+          "bt": 121.7,
+          "et": 87.5,
+          "ror": -81.3,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 437,
+          "bt": 105.0,
+          "et": 78.3,
+          "ror": -66.9,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 452,
+          "bt": 92.6,
+          "et": 71.2,
+          "ror": -53.1,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 468,
+          "bt": 81.3,
+          "et": 65.1,
+          "ror": -43.8,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 483,
+          "bt": 73.2,
+          "et": 60.1,
+          "ror": -34.9,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 499,
+          "bt": 64.1,
+          "et": 56.1,
+          "ror": -36.4,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 514,
+          "bt": 62.1,
+          "et": 55.1,
+          "ror": -8.7,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 529,
+          "bt": 57.1,
+          "et": 52.1,
+          "ror": -17.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 545,
+          "bt": 54.1,
+          "et": 50.1,
+          "ror": -12.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 556,
+          "bt": 53.1,
+          "et": 49.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "25-10-27_2034 Costa Rica Natural Yellow Bourbon",
+      "file": "25-10-27_2034 Costa Rica Natural Yellow Bourbon.alog",
+      "bean": "Costa Rica Yellow Bourbon",
+      "origin": "Costa Rica",
+      "region": "",
+      "varietal": "Yellow Bourbon",
+      "altitude_masl": "",
+      "process": "natural",
+      "flavour_notes": "",
+      "weight_in_g": null,
+      "weight_out_g": null,
+      "loss_pct": null,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2025-10-27",
+      "roast_time": "20:34:58",
+      "milestones": {
+        "charge_bt": 34.2,
+        "charge_et": 34.2,
+        "tp_time": 5.0,
+        "tp_bt": 34.2,
+        "dry_time": 174.0,
+        "dry_bt": 150.2,
+        "fc_time": 365.0,
+        "fc_bt": 190.2,
+        "drop_time": 397.0,
+        "drop_bt": 192.4
+      },
+      "phases": {
+        "total_time_s": 397.0,
+        "dry_time_s": 174.0,
+        "mid_time_s": 191.0,
+        "finish_time_s": 32.0,
+        "dtr_pct": 8.1,
+        "dry_ror": 41.2,
+        "mid_ror": 12.6,
+        "finish_ror": 4.1,
+        "total_ror": 24.2
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 34.2,
+          "et": 34.2,
+          "ror": null,
+          "fan": 55,
+          "heat": 0
+        },
+        {
+          "time_s": 16,
+          "bt": 45.1,
+          "et": 66.1,
+          "ror": 46.8,
+          "fan": 55,
+          "heat": 100
+        },
+        {
+          "time_s": 32,
+          "bt": 72.2,
+          "et": 108.1,
+          "ror": 103.4,
+          "fan": 55,
+          "heat": 87
+        },
+        {
+          "time_s": 48,
+          "bt": 88.5,
+          "et": 111.2,
+          "ror": 61.2,
+          "fan": 55,
+          "heat": 78
+        },
+        {
+          "time_s": 63,
+          "bt": 96.7,
+          "et": 108.1,
+          "ror": 30.8,
+          "fan": 55,
+          "heat": 74
+        },
+        {
+          "time_s": 79,
+          "bt": 104.0,
+          "et": 111.2,
+          "ror": 24.8,
+          "fan": 55,
+          "heat": 83
+        },
+        {
+          "time_s": 94,
+          "bt": 111.2,
+          "et": 119.6,
+          "ror": 31.2,
+          "fan": 55,
+          "heat": 84
+        },
+        {
+          "time_s": 110,
+          "bt": 119.6,
+          "et": 128.0,
+          "ror": 33.4,
+          "fan": 55,
+          "heat": 90
+        },
+        {
+          "time_s": 125,
+          "bt": 126.9,
+          "et": 134.3,
+          "ror": 31.5,
+          "fan": 55,
+          "heat": 87
+        },
+        {
+          "time_s": 141,
+          "bt": 134.3,
+          "et": 140.6,
+          "ror": 27.1,
+          "fan": 55,
+          "heat": 94
+        },
+        {
+          "time_s": 157,
+          "bt": 142.8,
+          "et": 148.1,
+          "ror": 31.8,
+          "fan": 55,
+          "heat": 95
+        },
+        {
+          "time_s": 173,
+          "bt": 149.2,
+          "et": 153.4,
+          "ror": 25.6,
+          "fan": 55,
+          "heat": 93
+        },
+        {
+          "time_s": 188,
+          "bt": 154.5,
+          "et": 156.6,
+          "ror": 22.9,
+          "fan": 55,
+          "heat": 95
+        },
+        {
+          "time_s": 203,
+          "bt": 158.8,
+          "et": 160.9,
+          "ror": 18.4,
+          "fan": 55,
+          "heat": 100
+        },
+        {
+          "time_s": 219,
+          "bt": 164.2,
+          "et": 166.3,
+          "ror": 18.4,
+          "fan": 54,
+          "heat": 98
+        },
+        {
+          "time_s": 235,
+          "bt": 169.6,
+          "et": 171.7,
+          "ror": 21.6,
+          "fan": 54,
+          "heat": 95
+        },
+        {
+          "time_s": 250,
+          "bt": 172.8,
+          "et": 173.9,
+          "ror": 13.9,
+          "fan": 51,
+          "heat": 100
+        },
+        {
+          "time_s": 265,
+          "bt": 176.1,
+          "et": 177.2,
+          "ror": 14.0,
+          "fan": 51,
+          "heat": 96
+        },
+        {
+          "time_s": 280,
+          "bt": 179.3,
+          "et": 180.4,
+          "ror": 9.3,
+          "fan": 50,
+          "heat": 95
+        },
+        {
+          "time_s": 296,
+          "bt": 182.6,
+          "et": 181.5,
+          "ror": 8.7,
+          "fan": 50,
+          "heat": 94
+        },
+        {
+          "time_s": 311,
+          "bt": 184.8,
+          "et": 182.6,
+          "ror": 9.3,
+          "fan": 50,
+          "heat": 93
+        },
+        {
+          "time_s": 327,
+          "bt": 187.0,
+          "et": 185.9,
+          "ror": 8.8,
+          "fan": 49,
+          "heat": 92
+        },
+        {
+          "time_s": 342,
+          "bt": 188.1,
+          "et": 185.9,
+          "ror": 4.7,
+          "fan": 49,
+          "heat": 97
+        },
+        {
+          "time_s": 358,
+          "bt": 189.1,
+          "et": 187.0,
+          "ror": 0.0,
+          "fan": 49,
+          "heat": 97
+        },
+        {
+          "time_s": 374,
+          "bt": 190.2,
+          "et": 187.0,
+          "ror": 0.0,
+          "fan": 49,
+          "heat": 98
+        },
+        {
+          "time_s": 389,
+          "bt": 191.3,
+          "et": 188.1,
+          "ror": 0.0,
+          "fan": 49,
+          "heat": 96
+        },
+        {
+          "time_s": 405,
+          "bt": 191.3,
+          "et": 183.7,
+          "ror": 0.0,
+          "fan": 70,
+          "heat": 0
+        },
+        {
+          "time_s": 420,
+          "bt": 167.4,
+          "et": 130.1,
+          "ror": -97.9,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 436,
+          "bt": 141.7,
+          "et": 100.8,
+          "ror": -96.3,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 451,
+          "bt": 121.7,
+          "et": 88.5,
+          "ror": -76.8,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 466,
+          "bt": 107.1,
+          "et": 79.3,
+          "ror": -58.1,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 481,
+          "bt": 94.7,
+          "et": 73.2,
+          "ror": -48.7,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 497,
+          "bt": 84.4,
+          "et": 68.2,
+          "ror": -35.1,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 504,
+          "bt": 80.3,
+          "et": 65.1,
+          "ror": -32.7,
+          "fan": 70,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "25-10-27_2021 Vietnam THA1 Roast 1",
+      "file": "25-10-27_2021 Vietnam THA1 Roast 1.alog",
+      "bean": "Vietnam THA1",
+      "origin": "Vietnam",
+      "region": "Tram Hanh, Cau Dat, Lam Dong",
+      "varietal": "THA1",
+      "altitude_masl": "",
+      "process": "Washed",
+      "flavour_notes": "Cocoa, Orange zest, Pu-erh tea, Clove, Hazelnut",
+      "weight_in_g": 125.9,
+      "weight_out_g": 111.9,
+      "loss_pct": 11.1,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2025-10-27",
+      "roast_time": "20:13:07",
+      "milestones": {
+        "charge_bt": 31.2,
+        "charge_et": 31.2,
+        "tp_time": 9.0,
+        "tp_bt": 31.2,
+        "dry_time": 195.0,
+        "dry_bt": 157.7,
+        "fc_time": 331.0,
+        "fc_bt": 188.1,
+        "drop_time": 356.0,
+        "drop_bt": 190.2
+      },
+      "phases": {
+        "total_time_s": 356.0,
+        "dry_time_s": 195.0,
+        "mid_time_s": 136.0,
+        "finish_time_s": 25.0,
+        "dtr_pct": 7.0,
+        "dry_ror": 40.8,
+        "mid_ror": 13.4,
+        "finish_ror": 5.3,
+        "total_ror": 27.5
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 31.2,
+          "et": 31.2,
+          "ror": null,
+          "fan": 52,
+          "heat": 0
+        },
+        {
+          "time_s": 17,
+          "bt": 33.2,
+          "et": 39.1,
+          "ror": 7.9,
+          "fan": 52,
+          "heat": 71
+        },
+        {
+          "time_s": 32,
+          "bt": 48.1,
+          "et": 71.2,
+          "ror": 59.6,
+          "fan": 52,
+          "heat": 85
+        },
+        {
+          "time_s": 47,
+          "bt": 66.1,
+          "et": 96.7,
+          "ror": 73.2,
+          "fan": 52,
+          "heat": 85
+        },
+        {
+          "time_s": 62,
+          "bt": 83.4,
+          "et": 112.3,
+          "ror": 69.6,
+          "fan": 52,
+          "heat": 85
+        },
+        {
+          "time_s": 78,
+          "bt": 97.8,
+          "et": 123.8,
+          "ror": 57.2,
+          "fan": 52,
+          "heat": 82
+        },
+        {
+          "time_s": 94,
+          "bt": 109.1,
+          "et": 129.0,
+          "ror": 41.4,
+          "fan": 52,
+          "heat": 84
+        },
+        {
+          "time_s": 109,
+          "bt": 118.5,
+          "et": 136.4,
+          "ror": 35.7,
+          "fan": 52,
+          "heat": 85
+        },
+        {
+          "time_s": 125,
+          "bt": 128.0,
+          "et": 141.7,
+          "ror": 33.6,
+          "fan": 52,
+          "heat": 89
+        },
+        {
+          "time_s": 140,
+          "bt": 134.3,
+          "et": 145.9,
+          "ror": 27.1,
+          "fan": 52,
+          "heat": 89
+        },
+        {
+          "time_s": 156,
+          "bt": 141.7,
+          "et": 151.3,
+          "ror": 27.3,
+          "fan": 52,
+          "heat": 92
+        },
+        {
+          "time_s": 172,
+          "bt": 148.1,
+          "et": 158.8,
+          "ror": 25.5,
+          "fan": 52,
+          "heat": 93
+        },
+        {
+          "time_s": 187,
+          "bt": 154.5,
+          "et": 163.1,
+          "ror": 27.5,
+          "fan": 52,
+          "heat": 89
+        },
+        {
+          "time_s": 203,
+          "bt": 159.9,
+          "et": 167.4,
+          "ror": 23.0,
+          "fan": 52,
+          "heat": 93
+        },
+        {
+          "time_s": 218,
+          "bt": 164.2,
+          "et": 170.6,
+          "ror": 18.4,
+          "fan": 52,
+          "heat": 98
+        },
+        {
+          "time_s": 234,
+          "bt": 168.5,
+          "et": 175.0,
+          "ror": 17.3,
+          "fan": 52,
+          "heat": 99
+        },
+        {
+          "time_s": 250,
+          "bt": 172.8,
+          "et": 177.2,
+          "ror": 13.9,
+          "fan": 52,
+          "heat": 100
+        },
+        {
+          "time_s": 266,
+          "bt": 176.1,
+          "et": 179.3,
+          "ror": 14.0,
+          "fan": 52,
+          "heat": 100
+        },
+        {
+          "time_s": 282,
+          "bt": 179.3,
+          "et": 182.6,
+          "ror": 14.0,
+          "fan": 52,
+          "heat": 94
+        },
+        {
+          "time_s": 298,
+          "bt": 182.6,
+          "et": 184.8,
+          "ror": 14.0,
+          "fan": 52,
+          "heat": 100
+        },
+        {
+          "time_s": 314,
+          "bt": 184.8,
+          "et": 187.0,
+          "ror": 8.7,
+          "fan": 50,
+          "heat": 96
+        },
+        {
+          "time_s": 329,
+          "bt": 187.0,
+          "et": 189.1,
+          "ror": 9.4,
+          "fan": 50,
+          "heat": 97
+        },
+        {
+          "time_s": 345,
+          "bt": 189.1,
+          "et": 189.1,
+          "ror": 9.3,
+          "fan": 50,
+          "heat": 98
+        },
+        {
+          "time_s": 361,
+          "bt": 190.2,
+          "et": 189.1,
+          "ror": 4.4,
+          "fan": 50,
+          "heat": 0
+        },
+        {
+          "time_s": 376,
+          "bt": 173.9,
+          "et": 143.8,
+          "ror": -70.1,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 392,
+          "bt": 147.0,
+          "et": 107.1,
+          "ror": -96.6,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 408,
+          "bt": 125.9,
+          "et": 90.5,
+          "ror": -77.0,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 423,
+          "bt": 110.2,
+          "et": 81.3,
+          "ror": -62.7,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 439,
+          "bt": 96.7,
+          "et": 74.2,
+          "ror": -48.8,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 455,
+          "bt": 85.4,
+          "et": 68.2,
+          "ror": -41.0,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 471,
+          "bt": 77.3,
+          "et": 63.1,
+          "ror": -30.6,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 486,
+          "bt": 70.2,
+          "et": 59.1,
+          "ror": -26.1,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 502,
+          "bt": 64.1,
+          "et": 56.1,
+          "ror": -26.0,
+          "fan": 100,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "25-09-16_2044 Vietnam THA1 Roast 1",
+      "file": "25-09-16_2044 Vietnam THA1 Roast 1.alog",
+      "bean": "Vietnam THA1",
+      "origin": "Vietnam",
+      "region": "Tram Hanh, Cau Dat, Lam Dong",
+      "varietal": "THA1",
+      "altitude_masl": "",
+      "process": "Washed",
+      "flavour_notes": "Cocoa, Orange zest, Pu-erh tea, Clove, Hazelnut",
+      "weight_in_g": 125.7,
+      "weight_out_g": 110.3,
+      "loss_pct": 12.3,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2025-09-16",
+      "roast_time": "20:44:08",
+      "milestones": {
+        "charge_bt": 30.2,
+        "charge_et": 31.2,
+        "tp_time": 6.0,
+        "tp_bt": 30.2,
+        "dry_time": 174.0,
+        "dry_bt": 150.2,
+        "fc_time": 348.0,
+        "fc_bt": 188.1,
+        "drop_time": 369.0,
+        "drop_bt": 191.3
+      },
+      "phases": {
+        "total_time_s": 369.0,
+        "dry_time_s": 174.0,
+        "mid_time_s": 174.0,
+        "finish_time_s": 21.0,
+        "dtr_pct": 5.7,
+        "dry_ror": 42.9,
+        "mid_ror": 13.0,
+        "finish_ror": 9.4,
+        "total_ror": 26.6
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 30.2,
+          "et": 31.2,
+          "ror": null,
+          "fan": 58,
+          "heat": 0
+        },
+        {
+          "time_s": 17,
+          "bt": 33.2,
+          "et": 39.1,
+          "ror": 11.8,
+          "fan": 58,
+          "heat": 73
+        },
+        {
+          "time_s": 32,
+          "bt": 48.1,
+          "et": 70.2,
+          "ror": 59.6,
+          "fan": 58,
+          "heat": 80
+        },
+        {
+          "time_s": 48,
+          "bt": 67.1,
+          "et": 93.6,
+          "ror": 68.3,
+          "fan": 58,
+          "heat": 85
+        },
+        {
+          "time_s": 63,
+          "bt": 83.4,
+          "et": 107.1,
+          "ror": 65.3,
+          "fan": 58,
+          "heat": 99
+        },
+        {
+          "time_s": 79,
+          "bt": 97.8,
+          "et": 119.6,
+          "ror": 57.2,
+          "fan": 58,
+          "heat": 86
+        },
+        {
+          "time_s": 95,
+          "bt": 109.1,
+          "et": 125.9,
+          "ror": 39.9,
+          "fan": 58,
+          "heat": 89
+        },
+        {
+          "time_s": 110,
+          "bt": 118.5,
+          "et": 131.1,
+          "ror": 35.7,
+          "fan": 56,
+          "heat": 89
+        },
+        {
+          "time_s": 126,
+          "bt": 126.9,
+          "et": 138.5,
+          "ror": 29.4,
+          "fan": 56,
+          "heat": 95
+        },
+        {
+          "time_s": 142,
+          "bt": 135.3,
+          "et": 145.9,
+          "ror": 29.5,
+          "fan": 54,
+          "heat": 93
+        },
+        {
+          "time_s": 158,
+          "bt": 142.8,
+          "et": 152.3,
+          "ror": 27.3,
+          "fan": 54,
+          "heat": 97
+        },
+        {
+          "time_s": 174,
+          "bt": 149.2,
+          "et": 158.8,
+          "ror": 25.6,
+          "fan": 54,
+          "heat": 97
+        },
+        {
+          "time_s": 189,
+          "bt": 155.6,
+          "et": 163.1,
+          "ror": 22.9,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 205,
+          "bt": 160.9,
+          "et": 166.3,
+          "ror": 23.0,
+          "fan": 54,
+          "heat": 96
+        },
+        {
+          "time_s": 220,
+          "bt": 165.2,
+          "et": 169.6,
+          "ror": 18.5,
+          "fan": 54,
+          "heat": 98
+        },
+        {
+          "time_s": 235,
+          "bt": 168.5,
+          "et": 172.8,
+          "ror": 13.9,
+          "fan": 54,
+          "heat": 97
+        },
+        {
+          "time_s": 251,
+          "bt": 171.7,
+          "et": 175.0,
+          "ror": 13.9,
+          "fan": 54,
+          "heat": 100
+        },
+        {
+          "time_s": 266,
+          "bt": 175.0,
+          "et": 177.2,
+          "ror": 13.9,
+          "fan": 52,
+          "heat": 100
+        },
+        {
+          "time_s": 281,
+          "bt": 178.2,
+          "et": 181.5,
+          "ror": 14.0,
+          "fan": 52,
+          "heat": 100
+        },
+        {
+          "time_s": 297,
+          "bt": 181.5,
+          "et": 182.6,
+          "ror": 13.1,
+          "fan": 52,
+          "heat": 97
+        },
+        {
+          "time_s": 313,
+          "bt": 183.7,
+          "et": 184.8,
+          "ror": 9.3,
+          "fan": 52,
+          "heat": 97
+        },
+        {
+          "time_s": 328,
+          "bt": 185.9,
+          "et": 185.9,
+          "ror": 9.3,
+          "fan": 52,
+          "heat": 97
+        },
+        {
+          "time_s": 343,
+          "bt": 187.0,
+          "et": 187.0,
+          "ror": 4.7,
+          "fan": 48,
+          "heat": 100
+        },
+        {
+          "time_s": 359,
+          "bt": 190.2,
+          "et": 192.4,
+          "ror": 14.1,
+          "fan": 48,
+          "heat": 94
+        },
+        {
+          "time_s": 375,
+          "bt": 191.3,
+          "et": 192.4,
+          "ror": 4.7,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 391,
+          "bt": 175.0,
+          "et": 145.9,
+          "ror": -65.5,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 407,
+          "bt": 151.3,
+          "et": 111.2,
+          "ror": -87.6,
+          "fan": 52,
+          "heat": 0
+        },
+        {
+          "time_s": 422,
+          "bt": 132.2,
+          "et": 94.7,
+          "ror": -72.7,
+          "fan": 52,
+          "heat": 0
+        },
+        {
+          "time_s": 438,
+          "bt": 115.4,
+          "et": 84.4,
+          "ror": -62.9,
+          "fan": 52,
+          "heat": 0
+        },
+        {
+          "time_s": 454,
+          "bt": 100.8,
+          "et": 76.3,
+          "ror": -53.4,
+          "fan": 70,
+          "heat": 0
+        },
+        {
+          "time_s": 470,
+          "bt": 88.5,
+          "et": 68.2,
+          "ror": -48.5,
+          "fan": 70,
+          "heat": 0
+        },
+        {
+          "time_s": 485,
+          "bt": 78.3,
+          "et": 63.1,
+          "ror": -39.4,
+          "fan": 0,
+          "heat": 0
+        },
+        {
+          "time_s": 500,
+          "bt": 70.2,
+          "et": 59.1,
+          "ror": -34.8,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 516,
+          "bt": 63.1,
+          "et": 55.1,
+          "ror": -26.0,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 532,
+          "bt": 58.1,
+          "et": 52.1,
+          "ror": -20.1,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 547,
+          "bt": 57.1,
+          "et": 52.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 563,
+          "bt": 55.1,
+          "et": 51.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 579,
+          "bt": 53.1,
+          "et": 49.1,
+          "ror": -4.3,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 595,
+          "bt": 51.1,
+          "et": 48.1,
+          "ror": -8.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 610,
+          "bt": 49.1,
+          "et": 47.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 625,
+          "bt": 49.1,
+          "et": 46.1,
+          "ror": 0.0,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 641,
+          "bt": 47.1,
+          "et": 45.1,
+          "ror": -8.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 657,
+          "bt": 45.1,
+          "et": 44.1,
+          "ror": -8.5,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 672,
+          "bt": 45.1,
+          "et": 43.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 688,
+          "bt": 44.1,
+          "et": 43.1,
+          "ror": -4.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 703,
+          "bt": 43.1,
+          "et": 42.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 719,
+          "bt": 43.1,
+          "et": 42.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 725,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": -4.0,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "25-08-29_2100 Coferment",
+      "file": "25-08-29_2100 Coferment.alog",
+      "bean": "Melon Co-Ferment",
+      "origin": "Colombia",
+      "region": "Huila Monteblanco",
+      "varietal": "",
+      "altitude_masl": "",
+      "process": "Washed Co-Ferment",
+      "flavour_notes": "Melon, Sweet, Nutty",
+      "weight_in_g": 107.8,
+      "weight_out_g": 95.5,
+      "loss_pct": 11.4,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2025-08-29",
+      "roast_time": "21:00:53",
+      "milestones": {
+        "charge_bt": 31.2,
+        "charge_et": 32.2,
+        "tp_time": 14.0,
+        "tp_bt": 31.2,
+        "dry_time": 186.0,
+        "dry_bt": 150.2,
+        "fc_time": 347.0,
+        "fc_bt": 190.2,
+        "drop_time": 379.0,
+        "drop_bt": 193.5
+      },
+      "phases": {
+        "total_time_s": 379.0,
+        "dry_time_s": 186.0,
+        "mid_time_s": 161.0,
+        "finish_time_s": 32.0,
+        "dtr_pct": 8.4,
+        "dry_ror": 41.5,
+        "mid_ror": 14.9,
+        "finish_ror": 6.2,
+        "total_ror": 26.7
+      },
+      "curve": [
+        {
+          "time_s": 0,
+          "bt": 31.2,
+          "et": 32.2,
+          "ror": null,
+          "fan": 0,
+          "heat": 0
+        },
+        {
+          "time_s": 15,
+          "bt": 32.2,
+          "et": 32.2,
+          "ror": 4.2,
+          "fan": 60,
+          "heat": 36
+        },
+        {
+          "time_s": 31,
+          "bt": 36.1,
+          "et": 43.1,
+          "ror": 16.9,
+          "fan": 56,
+          "heat": 68
+        },
+        {
+          "time_s": 47,
+          "bt": 51.1,
+          "et": 73.2,
+          "ror": 59.7,
+          "fan": 54,
+          "heat": 78
+        },
+        {
+          "time_s": 63,
+          "bt": 70.2,
+          "et": 97.8,
+          "ror": 73.3,
+          "fan": 54,
+          "heat": 80
+        },
+        {
+          "time_s": 79,
+          "bt": 86.5,
+          "et": 112.3,
+          "ror": 61.1,
+          "fan": 54,
+          "heat": 82
+        },
+        {
+          "time_s": 94,
+          "bt": 99.8,
+          "et": 119.6,
+          "ror": 52.9,
+          "fan": 54,
+          "heat": 86
+        },
+        {
+          "time_s": 110,
+          "bt": 110.2,
+          "et": 126.9,
+          "ror": 40.0,
+          "fan": 54,
+          "heat": 85
+        },
+        {
+          "time_s": 125,
+          "bt": 119.6,
+          "et": 133.2,
+          "ror": 35.8,
+          "fan": 54,
+          "heat": 88
+        },
+        {
+          "time_s": 140,
+          "bt": 128.0,
+          "et": 139.6,
+          "ror": 31.5,
+          "fan": 54,
+          "heat": 88
+        },
+        {
+          "time_s": 156,
+          "bt": 135.3,
+          "et": 147.0,
+          "ror": 27.1,
+          "fan": 52,
+          "heat": 91
+        },
+        {
+          "time_s": 172,
+          "bt": 142.8,
+          "et": 153.4,
+          "ror": 25.4,
+          "fan": 52,
+          "heat": 92
+        },
+        {
+          "time_s": 187,
+          "bt": 150.2,
+          "et": 158.8,
+          "ror": 27.4,
+          "fan": 52,
+          "heat": 86
+        },
+        {
+          "time_s": 203,
+          "bt": 155.6,
+          "et": 163.1,
+          "ror": 18.3,
+          "fan": 52,
+          "heat": 91
+        },
+        {
+          "time_s": 219,
+          "bt": 160.9,
+          "et": 168.5,
+          "ror": 18.4,
+          "fan": 52,
+          "heat": 91
+        },
+        {
+          "time_s": 235,
+          "bt": 166.3,
+          "et": 175.0,
+          "ror": 18.5,
+          "fan": 48,
+          "heat": 97
+        },
+        {
+          "time_s": 251,
+          "bt": 171.7,
+          "et": 180.4,
+          "ror": 21.6,
+          "fan": 48,
+          "heat": 90
+        },
+        {
+          "time_s": 266,
+          "bt": 176.1,
+          "et": 180.4,
+          "ror": 18.6,
+          "fan": 48,
+          "heat": 89
+        },
+        {
+          "time_s": 282,
+          "bt": 179.3,
+          "et": 182.6,
+          "ror": 14.0,
+          "fan": 48,
+          "heat": 93
+        },
+        {
+          "time_s": 298,
+          "bt": 181.5,
+          "et": 184.8,
+          "ror": 8.7,
+          "fan": 48,
+          "heat": 89
+        },
+        {
+          "time_s": 313,
+          "bt": 183.7,
+          "et": 187.0,
+          "ror": 9.3,
+          "fan": 48,
+          "heat": 95
+        },
+        {
+          "time_s": 329,
+          "bt": 187.0,
+          "et": 190.2,
+          "ror": 9.4,
+          "fan": 46,
+          "heat": 95
+        },
+        {
+          "time_s": 344,
+          "bt": 190.2,
+          "et": 191.3,
+          "ror": 14.1,
+          "fan": 46,
+          "heat": 88
+        },
+        {
+          "time_s": 360,
+          "bt": 191.3,
+          "et": 191.3,
+          "ror": 4.7,
+          "fan": 46,
+          "heat": 93
+        },
+        {
+          "time_s": 375,
+          "bt": 192.4,
+          "et": 192.4,
+          "ror": 4.7,
+          "fan": 46,
+          "heat": 95
+        },
+        {
+          "time_s": 391,
+          "bt": 192.4,
+          "et": 187.0,
+          "ror": 0.0,
+          "fan": 46,
+          "heat": 0
+        },
+        {
+          "time_s": 406,
+          "bt": 181.5,
+          "et": 156.6,
+          "ror": -46.8,
+          "fan": 46,
+          "heat": 0
+        },
+        {
+          "time_s": 421,
+          "bt": 160.9,
+          "et": 122.7,
+          "ror": -83.5,
+          "fan": 46,
+          "heat": 0
+        },
+        {
+          "time_s": 436,
+          "bt": 142.8,
+          "et": 105.0,
+          "ror": -73.3,
+          "fan": 46,
+          "heat": 0
+        },
+        {
+          "time_s": 452,
+          "bt": 123.8,
+          "et": 90.5,
+          "ror": -71.8,
+          "fan": 70,
+          "heat": 0
+        },
+        {
+          "time_s": 467,
+          "bt": 108.1,
+          "et": 80.3,
+          "ror": -62.6,
+          "fan": 70,
+          "heat": 0
+        },
+        {
+          "time_s": 483,
+          "bt": 93.6,
+          "et": 73.2,
+          "ror": -53.7,
+          "fan": 90,
+          "heat": 0
+        },
+        {
+          "time_s": 499,
+          "bt": 80.3,
+          "et": 67.1,
+          "ror": -49.1,
+          "fan": 80,
+          "heat": 0
+        },
+        {
+          "time_s": 514,
+          "bt": 73.2,
+          "et": 64.1,
+          "ror": -26.1,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 530,
+          "bt": 66.1,
+          "et": 60.1,
+          "ror": -26.0,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 545,
+          "bt": 61.1,
+          "et": 57.1,
+          "ror": -17.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 561,
+          "bt": 60.1,
+          "et": 56.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 577,
+          "bt": 58.1,
+          "et": 54.1,
+          "ror": -8.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 592,
+          "bt": 56.1,
+          "et": 53.1,
+          "ror": -8.6,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 608,
+          "bt": 54.1,
+          "et": 51.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 624,
+          "bt": 52.1,
+          "et": 50.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 640,
+          "bt": 50.1,
+          "et": 48.1,
+          "ror": -8.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 655,
+          "bt": 49.1,
+          "et": 47.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 671,
+          "bt": 49.1,
+          "et": 47.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 687,
+          "bt": 48.1,
+          "et": 46.1,
+          "ror": -4.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 702,
+          "bt": 47.1,
+          "et": 45.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 718,
+          "bt": 46.1,
+          "et": 45.1,
+          "ror": -4.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 734,
+          "bt": 45.1,
+          "et": 44.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 750,
+          "bt": 45.1,
+          "et": 43.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 765,
+          "bt": 44.1,
+          "et": 43.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 781,
+          "bt": 43.1,
+          "et": 43.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 796,
+          "bt": 43.1,
+          "et": 42.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 812,
+          "bt": 43.1,
+          "et": 42.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 828,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 843,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 859,
+          "bt": 41.1,
+          "et": 41.1,
+          "ror": -4.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 874,
+          "bt": 41.1,
+          "et": 40.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 890,
+          "bt": 41.1,
+          "et": 40.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 906,
+          "bt": 40.1,
+          "et": 40.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 922,
+          "bt": 40.1,
+          "et": 40.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 938,
+          "bt": 40.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 953,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 968,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 984,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1000,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1015,
+          "bt": 38.1,
+          "et": 38.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1030,
+          "bt": 38.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1046,
+          "bt": 38.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1061,
+          "bt": 38.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1077,
+          "bt": 38.1,
+          "et": 37.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1093,
+          "bt": 37.1,
+          "et": 37.1,
+          "ror": -4.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1109,
+          "bt": 37.1,
+          "et": 37.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1125,
+          "bt": 37.1,
+          "et": 37.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1140,
+          "bt": 37.1,
+          "et": 37.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1156,
+          "bt": 37.1,
+          "et": 37.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1172,
+          "bt": 37.1,
+          "et": 36.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1185,
+          "bt": 37.1,
+          "et": 36.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "25-06-10_2054 Eth Sidama Bona Kebeda Nekemo Natural Gr1",
+      "file": "25-06-10_2054 Eth Sidama Bona Kebeda Nekemo Natural Gr1.alog",
+      "bean": "Sidama Bona Kebeda Nekemo Gr1",
+      "origin": "Ethiopia",
+      "region": "Sidama, Bona",
+      "varietal": "",
+      "altitude_masl": "",
+      "process": "natural",
+      "flavour_notes": "",
+      "weight_in_g": null,
+      "weight_out_g": null,
+      "loss_pct": null,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2025-06-10",
+      "roast_time": "20:54:18",
+      "milestones": {
+        "charge_bt": 35.2,
+        "charge_et": 35.2,
+        "tp_time": 26.0,
+        "tp_bt": 35.2,
+        "dry_time": 196.0,
+        "dry_bt": 153.4,
+        "fc_time": 376.0,
+        "fc_bt": 193.5,
+        "drop_time": 408.0,
+        "drop_bt": 195.7
+      },
+      "phases": {
+        "total_time_s": 408.0,
+        "dry_time_s": 196.0,
+        "mid_time_s": 180.0,
+        "finish_time_s": 32.0,
+        "dtr_pct": 7.8,
+        "dry_ror": 41.7,
+        "mid_ror": 13.4,
+        "finish_ror": 4.1,
+        "total_ror": 25.2
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 35.2,
+          "et": 35.2,
+          "ror": null,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 17,
+          "bt": 35.2,
+          "et": 35.2,
+          "ror": 0.0,
+          "fan": 57,
+          "heat": 21
+        },
+        {
+          "time_s": 33,
+          "bt": 37.1,
+          "et": 42.1,
+          "ror": 8.5,
+          "fan": 57,
+          "heat": 53
+        },
+        {
+          "time_s": 49,
+          "bt": 52.1,
+          "et": 74.2,
+          "ror": 59.7,
+          "fan": 57,
+          "heat": 67
+        },
+        {
+          "time_s": 65,
+          "bt": 69.2,
+          "et": 94.7,
+          "ror": 64.7,
+          "fan": 57,
+          "heat": 63
+        },
+        {
+          "time_s": 81,
+          "bt": 83.4,
+          "et": 105.0,
+          "ror": 52.3,
+          "fan": 57,
+          "heat": 67
+        },
+        {
+          "time_s": 97,
+          "bt": 98.8,
+          "et": 118.5,
+          "ror": 57.3,
+          "fan": 57,
+          "heat": 62
+        },
+        {
+          "time_s": 113,
+          "bt": 109.1,
+          "et": 122.7,
+          "ror": 39.9,
+          "fan": 57,
+          "heat": 69
+        },
+        {
+          "time_s": 129,
+          "bt": 119.6,
+          "et": 130.1,
+          "ror": 35.8,
+          "fan": 57,
+          "heat": 69
+        },
+        {
+          "time_s": 145,
+          "bt": 126.9,
+          "et": 136.4,
+          "ror": 27.0,
+          "fan": 57,
+          "heat": 74
+        },
+        {
+          "time_s": 161,
+          "bt": 136.4,
+          "et": 143.8,
+          "ror": 27.1,
+          "fan": 54,
+          "heat": 68
+        },
+        {
+          "time_s": 177,
+          "bt": 144.9,
+          "et": 155.6,
+          "ror": 31.8,
+          "fan": 53,
+          "heat": 72
+        },
+        {
+          "time_s": 193,
+          "bt": 150.2,
+          "et": 157.7,
+          "ror": 18.3,
+          "fan": 52,
+          "heat": 71
+        },
+        {
+          "time_s": 209,
+          "bt": 156.6,
+          "et": 164.2,
+          "ror": 22.9,
+          "fan": 51,
+          "heat": 72
+        },
+        {
+          "time_s": 225,
+          "bt": 163.1,
+          "et": 168.5,
+          "ror": 18.4,
+          "fan": 50,
+          "heat": 75
+        },
+        {
+          "time_s": 241,
+          "bt": 167.4,
+          "et": 171.7,
+          "ror": 18.5,
+          "fan": 50,
+          "heat": 72
+        },
+        {
+          "time_s": 257,
+          "bt": 171.7,
+          "et": 177.2,
+          "ror": 18.5,
+          "fan": 50,
+          "heat": 72
+        },
+        {
+          "time_s": 273,
+          "bt": 176.1,
+          "et": 181.5,
+          "ror": 14.0,
+          "fan": 49,
+          "heat": 69
+        },
+        {
+          "time_s": 289,
+          "bt": 179.3,
+          "et": 181.5,
+          "ror": 9.3,
+          "fan": 48,
+          "heat": 74
+        },
+        {
+          "time_s": 305,
+          "bt": 182.6,
+          "et": 184.8,
+          "ror": 9.3,
+          "fan": 47,
+          "heat": 69
+        },
+        {
+          "time_s": 321,
+          "bt": 185.9,
+          "et": 188.1,
+          "ror": 9.3,
+          "fan": 46,
+          "heat": 74
+        },
+        {
+          "time_s": 337,
+          "bt": 189.1,
+          "et": 189.1,
+          "ror": 9.3,
+          "fan": 46,
+          "heat": 65
+        },
+        {
+          "time_s": 353,
+          "bt": 190.2,
+          "et": 189.1,
+          "ror": 4.7,
+          "fan": 45,
+          "heat": 68
+        },
+        {
+          "time_s": 369,
+          "bt": 192.4,
+          "et": 191.3,
+          "ror": 9.4,
+          "fan": 45,
+          "heat": 68
+        },
+        {
+          "time_s": 385,
+          "bt": 193.5,
+          "et": 191.3,
+          "ror": 4.7,
+          "fan": 45,
+          "heat": 71
+        },
+        {
+          "time_s": 401,
+          "bt": 194.6,
+          "et": 194.6,
+          "ror": 4.7,
+          "fan": 45,
+          "heat": 67
+        },
+        {
+          "time_s": 417,
+          "bt": 194.6,
+          "et": 190.2,
+          "ror": -4.7,
+          "fan": 45,
+          "heat": 0
+        },
+        {
+          "time_s": 433,
+          "bt": 171.7,
+          "et": 135.3,
+          "ror": -88.8,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 449,
+          "bt": 149.2,
+          "et": 108.1,
+          "ror": -96.7,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 465,
+          "bt": 128.0,
+          "et": 93.6,
+          "ror": -77.1,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 481,
+          "bt": 111.2,
+          "et": 84.4,
+          "ror": -62.7,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 497,
+          "bt": 98.8,
+          "et": 76.3,
+          "ror": -48.8,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 513,
+          "bt": 88.5,
+          "et": 71.2,
+          "ror": -35.2,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 529,
+          "bt": 79.3,
+          "et": 66.1,
+          "ror": -30.6,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 545,
+          "bt": 73.2,
+          "et": 62.1,
+          "ror": -21.8,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 561,
+          "bt": 67.1,
+          "et": 58.1,
+          "ror": -21.7,
+          "fan": 57,
+          "heat": 0
+        },
+        {
+          "time_s": 577,
+          "bt": 63.1,
+          "et": 56.1,
+          "ror": -17.3,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 593,
+          "bt": 58.1,
+          "et": 54.1,
+          "ror": -21.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 609,
+          "bt": 56.1,
+          "et": 52.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 625,
+          "bt": 55.1,
+          "et": 51.1,
+          "ror": -4.3,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 641,
+          "bt": 52.1,
+          "et": 50.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 657,
+          "bt": 51.1,
+          "et": 49.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 673,
+          "bt": 49.1,
+          "et": 48.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 689,
+          "bt": 48.1,
+          "et": 47.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 705,
+          "bt": 47.1,
+          "et": 46.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 721,
+          "bt": 46.1,
+          "et": 45.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 737,
+          "bt": 45.1,
+          "et": 44.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 753,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 769,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 785,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 801,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 817,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 833,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 849,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 865,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 881,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 897,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 913,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 929,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 945,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 961,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 977,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 993,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1009,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1025,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "25-06-02_2030 Ethiopia Dry Process Kafa Dehab Mesfin",
+      "file": "25-06-02_2030 Ethiopia Dry Process Kafa Dehab Mesfin.alog",
+      "bean": "Kafa Dehab Mesfin",
+      "origin": "Ethiopia",
+      "region": "Kafa",
+      "varietal": "",
+      "altitude_masl": "",
+      "process": "natural",
+      "flavour_notes": "",
+      "weight_in_g": null,
+      "weight_out_g": null,
+      "loss_pct": null,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2025-06-02",
+      "roast_time": "20:30:27",
+      "milestones": {
+        "charge_bt": 31.2,
+        "charge_et": 32.2,
+        "tp_time": 6.0,
+        "tp_bt": 31.2,
+        "dry_time": 212.0,
+        "dry_bt": 148.1,
+        "fc_time": 360.0,
+        "fc_bt": 184.8,
+        "drop_time": 386.0,
+        "drop_bt": 188.1
+      },
+      "phases": {
+        "total_time_s": 386.0,
+        "dry_time_s": 212.0,
+        "mid_time_s": 148.0,
+        "finish_time_s": 26.0,
+        "dtr_pct": 6.7,
+        "dry_ror": 34.0,
+        "mid_ror": 14.9,
+        "finish_ror": 7.6,
+        "total_ror": 24.8
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 31.2,
+          "et": 32.2,
+          "ror": null,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 17,
+          "bt": 39.1,
+          "et": 55.1,
+          "ror": 33.9,
+          "fan": 60,
+          "heat": 90
+        },
+        {
+          "time_s": 33,
+          "bt": 68.2,
+          "et": 108.1,
+          "ror": 111.7,
+          "fan": 60,
+          "heat": 76
+        },
+        {
+          "time_s": 49,
+          "bt": 87.5,
+          "et": 111.2,
+          "ror": 82.8,
+          "fan": 58,
+          "heat": 50
+        },
+        {
+          "time_s": 65,
+          "bt": 90.5,
+          "et": 94.7,
+          "ror": 13.2,
+          "fan": 58,
+          "heat": 54
+        },
+        {
+          "time_s": 81,
+          "bt": 92.6,
+          "et": 95.7,
+          "ror": 8.8,
+          "fan": 58,
+          "heat": 58
+        },
+        {
+          "time_s": 97,
+          "bt": 99.8,
+          "et": 107.1,
+          "ror": 26.5,
+          "fan": 58,
+          "heat": 63
+        },
+        {
+          "time_s": 113,
+          "bt": 107.1,
+          "et": 115.4,
+          "ror": 26.6,
+          "fan": 58,
+          "heat": 64
+        },
+        {
+          "time_s": 129,
+          "bt": 115.4,
+          "et": 123.8,
+          "ror": 31.2,
+          "fan": 58,
+          "heat": 66
+        },
+        {
+          "time_s": 145,
+          "bt": 122.7,
+          "et": 129.0,
+          "ror": 26.9,
+          "fan": 56,
+          "heat": 66
+        },
+        {
+          "time_s": 161,
+          "bt": 129.0,
+          "et": 133.2,
+          "ror": 27.0,
+          "fan": 56,
+          "heat": 68
+        },
+        {
+          "time_s": 177,
+          "bt": 135.3,
+          "et": 139.6,
+          "ror": 27.1,
+          "fan": 54,
+          "heat": 69
+        },
+        {
+          "time_s": 193,
+          "bt": 141.7,
+          "et": 145.9,
+          "ror": 22.7,
+          "fan": 54,
+          "heat": 67
+        },
+        {
+          "time_s": 209,
+          "bt": 147.0,
+          "et": 149.2,
+          "ror": 22.8,
+          "fan": 54,
+          "heat": 69
+        },
+        {
+          "time_s": 225,
+          "bt": 152.3,
+          "et": 153.4,
+          "ror": 18.3,
+          "fan": 54,
+          "heat": 75
+        },
+        {
+          "time_s": 241,
+          "bt": 156.6,
+          "et": 157.7,
+          "ror": 18.4,
+          "fan": 52,
+          "heat": 75
+        },
+        {
+          "time_s": 257,
+          "bt": 162.0,
+          "et": 162.0,
+          "ror": 18.4,
+          "fan": 52,
+          "heat": 70
+        },
+        {
+          "time_s": 273,
+          "bt": 166.3,
+          "et": 166.3,
+          "ror": 18.5,
+          "fan": 52,
+          "heat": 76
+        },
+        {
+          "time_s": 289,
+          "bt": 170.6,
+          "et": 169.6,
+          "ror": 18.5,
+          "fan": 50,
+          "heat": 70
+        },
+        {
+          "time_s": 305,
+          "bt": 173.9,
+          "et": 172.8,
+          "ror": 13.9,
+          "fan": 50,
+          "heat": 75
+        },
+        {
+          "time_s": 321,
+          "bt": 177.2,
+          "et": 175.0,
+          "ror": 14.0,
+          "fan": 50,
+          "heat": 70
+        },
+        {
+          "time_s": 337,
+          "bt": 179.3,
+          "et": 177.2,
+          "ror": 9.3,
+          "fan": 50,
+          "heat": 77
+        },
+        {
+          "time_s": 353,
+          "bt": 182.6,
+          "et": 180.4,
+          "ror": 9.3,
+          "fan": 48,
+          "heat": 76
+        },
+        {
+          "time_s": 369,
+          "bt": 185.9,
+          "et": 182.6,
+          "ror": 9.3,
+          "fan": 48,
+          "heat": 70
+        },
+        {
+          "time_s": 385,
+          "bt": 188.1,
+          "et": 183.7,
+          "ror": 9.4,
+          "fan": 48,
+          "heat": 75
+        },
+        {
+          "time_s": 401,
+          "bt": 181.5,
+          "et": 160.9,
+          "ror": -28.1,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 417,
+          "bt": 156.6,
+          "et": 117.5,
+          "ror": -92.5,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 433,
+          "bt": 135.3,
+          "et": 97.8,
+          "ror": -82.1,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 449,
+          "bt": 118.5,
+          "et": 86.5,
+          "ror": -63.0,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 465,
+          "bt": 104.0,
+          "et": 79.3,
+          "ror": -53.5,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 481,
+          "bt": 92.6,
+          "et": 73.2,
+          "ror": -44.2,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 497,
+          "bt": 83.4,
+          "et": 67.1,
+          "ror": -35.1,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 513,
+          "bt": 76.3,
+          "et": 63.1,
+          "ror": -26.2,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 529,
+          "bt": 70.2,
+          "et": 59.1,
+          "ror": -21.7,
+          "fan": 48,
+          "heat": 0
+        },
+        {
+          "time_s": 545,
+          "bt": 64.1,
+          "et": 56.1,
+          "ror": -21.6,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 561,
+          "bt": 58.1,
+          "et": 52.1,
+          "ror": -25.9,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 577,
+          "bt": 55.1,
+          "et": 51.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 593,
+          "bt": 53.1,
+          "et": 50.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 609,
+          "bt": 52.1,
+          "et": 48.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 625,
+          "bt": 50.1,
+          "et": 47.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 641,
+          "bt": 49.1,
+          "et": 46.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 657,
+          "bt": 47.1,
+          "et": 45.1,
+          "ror": -4.3,
+          "fan": 46,
+          "heat": 0
+        },
+        {
+          "time_s": 673,
+          "bt": 46.1,
+          "et": 44.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 689,
+          "bt": 44.1,
+          "et": 43.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 705,
+          "bt": 43.1,
+          "et": 42.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 721,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 737,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 753,
+          "bt": 41.1,
+          "et": 40.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 769,
+          "bt": 41.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 785,
+          "bt": 40.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 801,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 817,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 833,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 849,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 865,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 881,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 897,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 913,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 929,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 945,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 961,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 977,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 993,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1009,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1025,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1041,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1057,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1073,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1089,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1105,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1121,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1137,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1153,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1169,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1185,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1201,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1217,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1233,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1249,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1265,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1281,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1297,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1313,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1329,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1345,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1361,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1377,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1393,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1409,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1425,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1441,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1457,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1473,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1489,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1505,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1521,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1537,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1553,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1569,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1585,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1601,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1617,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1633,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1649,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1665,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1681,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1697,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1713,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1729,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1745,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1761,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1777,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1793,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1809,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1825,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1841,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1857,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1873,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1889,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1905,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1911,
+          "bt": 39.1,
+          "et": 38.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "25-06-02_2009 Guji Uraga Awol Endris Anaerobic G1",
+      "file": "25-06-02_2009 Guji Uraga Awol Endris Anaerobic G1.alog",
+      "bean": "Guji Uraga Awol Endris Anaerobic G1",
+      "origin": "Ethiopia",
+      "region": "Guji, Uraga",
+      "varietal": "",
+      "altitude_masl": "",
+      "process": "anaerobic",
+      "flavour_notes": "",
+      "weight_in_g": null,
+      "weight_out_g": null,
+      "loss_pct": null,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2025-06-02",
+      "roast_time": "20:09:12",
+      "milestones": {
+        "charge_bt": 28.3,
+        "charge_et": 28.3,
+        "tp_time": 8.0,
+        "tp_bt": 28.3,
+        "dry_time": 214.0,
+        "dry_bt": 150.2,
+        "fc_time": 394.0,
+        "fc_bt": 189.1,
+        "drop_time": 432.0,
+        "drop_bt": 193.5
+      },
+      "phases": {
+        "total_time_s": 432.0,
+        "dry_time_s": 214.0,
+        "mid_time_s": 180.0,
+        "finish_time_s": 38.0,
+        "dtr_pct": 8.8,
+        "dry_ror": 35.5,
+        "mid_ror": 13.0,
+        "finish_ror": 6.9,
+        "total_ror": 23.4
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 28.3,
+          "et": 28.3,
+          "ror": null,
+          "fan": 55,
+          "heat": 0
+        },
+        {
+          "time_s": 17,
+          "bt": 33.2,
+          "et": 45.1,
+          "ror": 21.1,
+          "fan": 55,
+          "heat": 63
+        },
+        {
+          "time_s": 33,
+          "bt": 53.1,
+          "et": 82.4,
+          "ror": 76.7,
+          "fan": 55,
+          "heat": 64
+        },
+        {
+          "time_s": 49,
+          "bt": 70.2,
+          "et": 94.7,
+          "ror": 60.4,
+          "fan": 55,
+          "heat": 56
+        },
+        {
+          "time_s": 65,
+          "bt": 82.4,
+          "et": 98.8,
+          "ror": 43.6,
+          "fan": 55,
+          "heat": 59
+        },
+        {
+          "time_s": 81,
+          "bt": 90.5,
+          "et": 102.9,
+          "ror": 30.7,
+          "fan": 54,
+          "heat": 61
+        },
+        {
+          "time_s": 97,
+          "bt": 99.8,
+          "et": 110.2,
+          "ror": 35.3,
+          "fan": 54,
+          "heat": 60
+        },
+        {
+          "time_s": 113,
+          "bt": 107.1,
+          "et": 115.4,
+          "ror": 26.6,
+          "fan": 53,
+          "heat": 63
+        },
+        {
+          "time_s": 129,
+          "bt": 115.4,
+          "et": 122.7,
+          "ror": 31.2,
+          "fan": 52,
+          "heat": 64
+        },
+        {
+          "time_s": 145,
+          "bt": 121.7,
+          "et": 130.1,
+          "ror": 26.9,
+          "fan": 51,
+          "heat": 59
+        },
+        {
+          "time_s": 161,
+          "bt": 129.0,
+          "et": 134.3,
+          "ror": 22.5,
+          "fan": 49,
+          "heat": 64
+        },
+        {
+          "time_s": 177,
+          "bt": 134.3,
+          "et": 139.6,
+          "ror": 22.6,
+          "fan": 48,
+          "heat": 65
+        },
+        {
+          "time_s": 193,
+          "bt": 141.7,
+          "et": 149.2,
+          "ror": 27.3,
+          "fan": 47,
+          "heat": 65
+        },
+        {
+          "time_s": 209,
+          "bt": 148.1,
+          "et": 153.4,
+          "ror": 22.8,
+          "fan": 47,
+          "heat": 68
+        },
+        {
+          "time_s": 225,
+          "bt": 152.3,
+          "et": 156.6,
+          "ror": 18.3,
+          "fan": 47,
+          "heat": 64
+        },
+        {
+          "time_s": 241,
+          "bt": 157.7,
+          "et": 160.9,
+          "ror": 18.4,
+          "fan": 46,
+          "heat": 66
+        },
+        {
+          "time_s": 257,
+          "bt": 160.9,
+          "et": 164.2,
+          "ror": 13.8,
+          "fan": 44,
+          "heat": 71
+        },
+        {
+          "time_s": 273,
+          "bt": 166.3,
+          "et": 169.6,
+          "ror": 18.5,
+          "fan": 44,
+          "heat": 65
+        },
+        {
+          "time_s": 289,
+          "bt": 170.6,
+          "et": 173.9,
+          "ror": 18.5,
+          "fan": 44,
+          "heat": 65
+        },
+        {
+          "time_s": 305,
+          "bt": 173.9,
+          "et": 177.2,
+          "ror": 13.9,
+          "fan": 44,
+          "heat": 70
+        },
+        {
+          "time_s": 321,
+          "bt": 177.2,
+          "et": 177.2,
+          "ror": 14.0,
+          "fan": 44,
+          "heat": 66
+        },
+        {
+          "time_s": 337,
+          "bt": 180.4,
+          "et": 181.5,
+          "ror": 14.0,
+          "fan": 43,
+          "heat": 66
+        },
+        {
+          "time_s": 353,
+          "bt": 183.7,
+          "et": 183.7,
+          "ror": 14.0,
+          "fan": 41,
+          "heat": 65
+        },
+        {
+          "time_s": 369,
+          "bt": 185.9,
+          "et": 185.9,
+          "ror": 9.3,
+          "fan": 41,
+          "heat": 70
+        },
+        {
+          "time_s": 385,
+          "bt": 188.1,
+          "et": 187.0,
+          "ror": 4.7,
+          "fan": 40,
+          "heat": 67
+        },
+        {
+          "time_s": 401,
+          "bt": 190.2,
+          "et": 188.1,
+          "ror": 4.7,
+          "fan": 40,
+          "heat": 68
+        },
+        {
+          "time_s": 417,
+          "bt": 192.4,
+          "et": 189.1,
+          "ror": 9.4,
+          "fan": 40,
+          "heat": 67
+        },
+        {
+          "time_s": 433,
+          "bt": 193.5,
+          "et": 190.2,
+          "ror": 4.7,
+          "fan": 40,
+          "heat": 67
+        },
+        {
+          "time_s": 449,
+          "bt": 185.9,
+          "et": 163.1,
+          "ror": -32.9,
+          "fan": 40,
+          "heat": 0
+        },
+        {
+          "time_s": 465,
+          "bt": 164.2,
+          "et": 122.7,
+          "ror": -83.7,
+          "fan": 44,
+          "heat": 0
+        },
+        {
+          "time_s": 481,
+          "bt": 142.8,
+          "et": 100.8,
+          "ror": -77.9,
+          "fan": 44,
+          "heat": 0
+        },
+        {
+          "time_s": 497,
+          "bt": 125.9,
+          "et": 89.5,
+          "ror": -63.3,
+          "fan": 44,
+          "heat": 0
+        },
+        {
+          "time_s": 513,
+          "bt": 111.2,
+          "et": 81.3,
+          "ror": -53.7,
+          "fan": 44,
+          "heat": 0
+        },
+        {
+          "time_s": 529,
+          "bt": 98.8,
+          "et": 75.2,
+          "ror": -48.8,
+          "fan": 44,
+          "heat": 0
+        },
+        {
+          "time_s": 545,
+          "bt": 89.5,
+          "et": 70.2,
+          "ror": -35.2,
+          "fan": 44,
+          "heat": 0
+        },
+        {
+          "time_s": 561,
+          "bt": 81.3,
+          "et": 65.1,
+          "ror": -30.6,
+          "fan": 44,
+          "heat": 0
+        },
+        {
+          "time_s": 577,
+          "bt": 74.2,
+          "et": 61.1,
+          "ror": -26.2,
+          "fan": 44,
+          "heat": 0
+        },
+        {
+          "time_s": 593,
+          "bt": 69.2,
+          "et": 58.1,
+          "ror": -17.4,
+          "fan": 44,
+          "heat": 0
+        },
+        {
+          "time_s": 609,
+          "bt": 64.1,
+          "et": 55.1,
+          "ror": -17.3,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 625,
+          "bt": 57.1,
+          "et": 52.1,
+          "ror": -25.8,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 641,
+          "bt": 55.1,
+          "et": 51.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 657,
+          "bt": 53.1,
+          "et": 49.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 673,
+          "bt": 51.1,
+          "et": 48.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 689,
+          "bt": 49.1,
+          "et": 47.1,
+          "ror": -8.6,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 705,
+          "bt": 47.1,
+          "et": 45.1,
+          "ror": -8.5,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 721,
+          "bt": 46.1,
+          "et": 44.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 737,
+          "bt": 45.1,
+          "et": 43.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 753,
+          "bt": 44.1,
+          "et": 42.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 769,
+          "bt": 43.1,
+          "et": 42.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 785,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 801,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 817,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 833,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 849,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 865,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 881,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 897,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 913,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 929,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 945,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 961,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 977,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 993,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1009,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1025,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1041,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1057,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1073,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1089,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1105,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1121,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1133,
+          "bt": 42.1,
+          "et": 41.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "id": "163g kerinci roast",
+      "file": "163g kerinci roast.alog",
+      "bean": "Kerinci",
+      "origin": "Indonesia",
+      "region": "Kerinci, Sumatra",
+      "varietal": "",
+      "altitude_masl": "",
+      "process": "",
+      "flavour_notes": "",
+      "weight_in_g": 163.0,
+      "weight_out_g": null,
+      "loss_pct": null,
+      "roast_level_target": "",
+      "purpose": "",
+      "goal": "",
+      "verdict": "",
+      "cupping_notes": "",
+      "score": "",
+      "roast_date": "2025-05-11",
+      "roast_time": "21:02:00",
+      "milestones": {
+        "charge_bt": 34.2,
+        "charge_et": 34.2,
+        "tp_time": 30.0,
+        "tp_bt": 34.2,
+        "dry_time": 194.0,
+        "dry_bt": 151.3,
+        "fc_time": 376.0,
+        "fc_bt": 190.2,
+        "drop_time": 418.0,
+        "drop_bt": 181.5
+      },
+      "phases": {
+        "total_time_s": 418.0,
+        "dry_time_s": 194.0,
+        "mid_time_s": 182.0,
+        "finish_time_s": 42.0,
+        "dtr_pct": 10.0,
+        "dry_ror": 42.8,
+        "mid_ror": 12.8,
+        "finish_ror": -12.5,
+        "total_ror": 22.8
+      },
+      "curve": [
+        {
+          "time_s": 1,
+          "bt": 34.2,
+          "et": 34.2,
+          "ror": null,
+          "fan": 65,
+          "heat": 0
+        },
+        {
+          "time_s": 17,
+          "bt": 34.2,
+          "et": 34.2,
+          "ror": 0.0,
+          "fan": 65,
+          "heat": 9
+        },
+        {
+          "time_s": 33,
+          "bt": 34.2,
+          "et": 36.1,
+          "ror": 0.0,
+          "fan": 65,
+          "heat": 54
+        },
+        {
+          "time_s": 49,
+          "bt": 47.1,
+          "et": 70.2,
+          "ror": 51.0,
+          "fan": 65,
+          "heat": 74
+        },
+        {
+          "time_s": 65,
+          "bt": 69.2,
+          "et": 102.9,
+          "ror": 81.9,
+          "fan": 65,
+          "heat": 73
+        },
+        {
+          "time_s": 81,
+          "bt": 87.5,
+          "et": 115.4,
+          "ror": 78.5,
+          "fan": 65,
+          "heat": 66
+        },
+        {
+          "time_s": 97,
+          "bt": 99.8,
+          "et": 119.6,
+          "ror": 52.9,
+          "fan": 65,
+          "heat": 67
+        },
+        {
+          "time_s": 113,
+          "bt": 108.1,
+          "et": 122.7,
+          "ror": 31.1,
+          "fan": 65,
+          "heat": 69
+        },
+        {
+          "time_s": 129,
+          "bt": 117.5,
+          "et": 129.0,
+          "ror": 31.3,
+          "fan": 56,
+          "heat": 69
+        },
+        {
+          "time_s": 145,
+          "bt": 126.9,
+          "et": 139.6,
+          "ror": 40.4,
+          "fan": 54,
+          "heat": 72
+        },
+        {
+          "time_s": 161,
+          "bt": 135.3,
+          "et": 150.2,
+          "ror": 36.1,
+          "fan": 50,
+          "heat": 71
+        },
+        {
+          "time_s": 177,
+          "bt": 143.8,
+          "et": 156.6,
+          "ror": 31.8,
+          "fan": 48,
+          "heat": 67
+        },
+        {
+          "time_s": 193,
+          "bt": 149.2,
+          "et": 159.9,
+          "ror": 22.8,
+          "fan": 48,
+          "heat": 71
+        },
+        {
+          "time_s": 209,
+          "bt": 155.6,
+          "et": 165.2,
+          "ror": 27.5,
+          "fan": 45,
+          "heat": 66
+        },
+        {
+          "time_s": 225,
+          "bt": 160.9,
+          "et": 171.7,
+          "ror": 23.0,
+          "fan": 45,
+          "heat": 71
+        },
+        {
+          "time_s": 241,
+          "bt": 165.2,
+          "et": 176.1,
+          "ror": 18.5,
+          "fan": 45,
+          "heat": 70
+        },
+        {
+          "time_s": 257,
+          "bt": 169.6,
+          "et": 178.2,
+          "ror": 18.5,
+          "fan": 45,
+          "heat": 71
+        },
+        {
+          "time_s": 273,
+          "bt": 173.9,
+          "et": 180.4,
+          "ror": 18.6,
+          "fan": 45,
+          "heat": 70
+        },
+        {
+          "time_s": 289,
+          "bt": 177.2,
+          "et": 184.8,
+          "ror": 14.0,
+          "fan": 42,
+          "heat": 69
+        },
+        {
+          "time_s": 305,
+          "bt": 180.4,
+          "et": 188.1,
+          "ror": 14.0,
+          "fan": 42,
+          "heat": 69
+        },
+        {
+          "time_s": 321,
+          "bt": 182.6,
+          "et": 190.2,
+          "ror": 9.3,
+          "fan": 40,
+          "heat": 70
+        },
+        {
+          "time_s": 337,
+          "bt": 185.9,
+          "et": 192.4,
+          "ror": 9.3,
+          "fan": 40,
+          "heat": 67
+        },
+        {
+          "time_s": 353,
+          "bt": 188.1,
+          "et": 192.4,
+          "ror": 9.4,
+          "fan": 40,
+          "heat": 62
+        },
+        {
+          "time_s": 369,
+          "bt": 189.1,
+          "et": 193.5,
+          "ror": 4.7,
+          "fan": 40,
+          "heat": 67
+        },
+        {
+          "time_s": 385,
+          "bt": 191.3,
+          "et": 193.5,
+          "ror": 4.7,
+          "fan": 40,
+          "heat": 63
+        },
+        {
+          "time_s": 401,
+          "bt": 192.4,
+          "et": 194.6,
+          "ror": 4.7,
+          "fan": 40,
+          "heat": 69
+        },
+        {
+          "time_s": 417,
+          "bt": 188.1,
+          "et": 172.8,
+          "ror": -18.8,
+          "fan": 40,
+          "heat": 5
+        },
+        {
+          "time_s": 433,
+          "bt": 171.7,
+          "et": 137.5,
+          "ror": -70.0,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 449,
+          "bt": 148.1,
+          "et": 107.1,
+          "ror": -92.1,
+          "fan": 70,
+          "heat": 0
+        },
+        {
+          "time_s": 465,
+          "bt": 126.9,
+          "et": 89.5,
+          "ror": -81.6,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 481,
+          "bt": 109.1,
+          "et": 80.3,
+          "ror": -62.7,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 497,
+          "bt": 95.7,
+          "et": 73.2,
+          "ror": -48.7,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 513,
+          "bt": 85.4,
+          "et": 68.2,
+          "ror": -39.6,
+          "fan": 60,
+          "heat": 0
+        },
+        {
+          "time_s": 529,
+          "bt": 78.3,
+          "et": 64.1,
+          "ror": -26.2,
+          "fan": 50,
+          "heat": 0
+        },
+        {
+          "time_s": 545,
+          "bt": 72.2,
+          "et": 61.1,
+          "ror": -21.7,
+          "fan": 50,
+          "heat": 0
+        },
+        {
+          "time_s": 561,
+          "bt": 67.1,
+          "et": 57.1,
+          "ror": -17.3,
+          "fan": 50,
+          "heat": 0
+        },
+        {
+          "time_s": 577,
+          "bt": 63.1,
+          "et": 55.1,
+          "ror": -13.0,
+          "fan": 50,
+          "heat": 0
+        },
+        {
+          "time_s": 593,
+          "bt": 59.1,
+          "et": 53.1,
+          "ror": -12.9,
+          "fan": 50,
+          "heat": 0
+        },
+        {
+          "time_s": 609,
+          "bt": 56.1,
+          "et": 51.1,
+          "ror": -12.9,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 625,
+          "bt": 52.1,
+          "et": 49.1,
+          "ror": -12.9,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 641,
+          "bt": 50.1,
+          "et": 48.1,
+          "ror": -4.3,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 657,
+          "bt": 48.1,
+          "et": 47.1,
+          "ror": -8.5,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 673,
+          "bt": 47.1,
+          "et": 46.1,
+          "ror": -4.3,
+          "fan": 100,
+          "heat": 0
+        },
+        {
+          "time_s": 689,
+          "bt": 46.1,
+          "et": 45.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 705,
+          "bt": 45.1,
+          "et": 44.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 721,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 737,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 753,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 769,
+          "bt": 44.1,
+          "et": 44.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 785,
+          "bt": 45.1,
+          "et": 44.1,
+          "ror": 4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 801,
+          "bt": 45.1,
+          "et": 43.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 817,
+          "bt": 43.1,
+          "et": 42.1,
+          "ror": -8.5,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 833,
+          "bt": 42.1,
+          "et": 42.1,
+          "ror": -4.3,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 849,
+          "bt": 41.1,
+          "et": 41.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 865,
+          "bt": 40.1,
+          "et": 40.1,
+          "ror": -4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 881,
+          "bt": 40.1,
+          "et": 40.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 897,
+          "bt": 41.1,
+          "et": 40.1,
+          "ror": 4.2,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 913,
+          "bt": 40.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 929,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 945,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 961,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 977,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 993,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1009,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        },
+        {
+          "time_s": 1019,
+          "bt": 39.1,
+          "et": 39.1,
+          "ror": 0.0,
+          "fan": 25,
+          "heat": 0
+        }
+      ]
+    }
+  ],
+  "count": 15
+}
